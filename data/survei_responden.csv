@@ -1,0 +1,2001 @@
+id_responden,wilayah,kanal,usia,waktu_tunggu_menit,jumlah_kunjungan,petugas_ramah,informasi_jelas,puas
+R0001,Papua,Online,50,9.9,7,3,3,Ya
+R0002,Sumatera Utara,Online,29,15.3,4,4,3,Ya
+R0003,Bali,Online,36,1.4,7,1,4,Ya
+R0004,Sulawesi Selatan,Loket,20,22.3,2,5,3,Ya
+R0005,Bali,Online,44,6.8,2,4,2,Ya
+R0006,Jawa Timur,Online,24,11.4,8,3,5,Ya
+R0007,Sumatera Utara,Online,66,9.6,7,1,2,Tidak
+R0008,Sumatera Utara,Online,31,11.3,5,3,3,Ya
+R0009,Papua,Loket,66,17.4,8,1,5,Ya
+R0010,Sumatera Utara,Loket,36,17.2,1,5,4,Ya
+R0011,Papua,Loket,31,25.7,5,3,3,Ya
+R0012,Bali,Loket,58,27.9,6,1,1,Tidak
+R0013,Bali,Online,18,13.1,2,3,1,Tidak
+R0014,DKI Jakarta,Online,27,1.6,2,4,5,Ya
+R0015,Jawa Barat,Online,42,6.2,4,4,5,Ya
+R0016,Kalimantan Timur,Loket,65,18.2,1,4,4,Ya
+R0017,Sumatera Utara,Online,37,12.8,8,5,3,Ya
+R0018,Sumatera Utara,Loket,40,19.6,6,3,4,Ya
+R0019,Bali,Loket,59,15.1,4,3,3,Ya
+R0020,Sulawesi Selatan,Online,19,11.0,4,3,1,Ya
+R0021,Sulawesi Selatan,Loket,32,24.8,5,4,3,Tidak
+R0022,Jawa Tengah,Online,30,16.9,4,1,2,Tidak
+R0023,Aceh,Loket,55,25.4,2,4,2,Tidak
+R0024,Jawa Timur,Loket,70,18.9,8,1,1,Tidak
+R0025,Sumatera Utara,Online,42,12.6,1,2,1,Tidak
+R0026,Jawa Tengah,Loket,66,23.3,7,4,5,Ya
+R0027,Jawa Tengah,Online,38,2.4,4,4,2,Ya
+R0028,Jawa Timur,Loket,55,23.0,7,2,1,Tidak
+R0029,Jawa Timur,Loket,48,30.2,3,4,3,Tidak
+R0030,Bali,Online,27,10.5,3,5,5,Ya
+R0031,Jawa Timur,Loket,23,28.4,4,2,3,Tidak
+R0032,Papua,Loket,61,16.7,6,3,5,Ya
+R0033,Sumatera Utara,Loket,44,19.3,4,2,3,Tidak
+R0034,Jawa Barat,Loket,32,29.4,5,4,4,Ya
+R0035,Sulawesi Selatan,Loket,28,20.6,2,5,1,Ya
+R0036,Papua,Online,62,1.8,8,1,1,Ya
+R0037,Kalimantan Timur,Online,57,6.1,3,3,4,Ya
+R0038,Jawa Tengah,Online,30,5.9,6,4,2,Ya
+R0039,Aceh,Loket,31,32.9,8,3,3,Tidak
+R0040,Papua,Online,45,16.8,4,2,3,Ya
+R0041,Sulawesi Selatan,Online,52,10.7,6,2,3,Ya
+R0042,Sulawesi Selatan,Online,50,1,5,2,5,Ya
+R0043,Papua,Loket,29,8.7,8,2,2,Tidak
+R0044,Sulawesi Selatan,Online,45,1,1,2,2,Ya
+R0045,Papua,Online,64,17.9,8,5,1,Ya
+R0046,Jawa Timur,Loket,48,19.0,5,2,1,Tidak
+R0047,Aceh,Online,47,3.4,8,2,5,Ya
+R0048,DKI Jakarta,Loket,22,31.3,1,1,4,Tidak
+R0049,Sumatera Utara,Loket,52,17.9,7,5,2,Ya
+R0050,Jawa Timur,Online,37,15.1,8,2,3,Tidak
+R0051,DKI Jakarta,Loket,19,14.5,4,1,2,Tidak
+R0052,Kalimantan Timur,Loket,64,15.8,2,1,3,Tidak
+R0053,Papua,Online,30,7.4,4,1,2,Ya
+R0054,Bali,Online,36,1,3,4,5,Ya
+R0055,Bali,Online,30,17.6,6,4,4,Ya
+R0056,Jawa Barat,Online,47,5.2,8,5,5,Ya
+R0057,Kalimantan Timur,Online,27,1,3,3,1,Ya
+R0058,Jawa Barat,Online,66,15.5,5,1,4,Tidak
+R0059,Sulawesi Selatan,Online,36,11.9,2,3,3,Ya
+R0060,Bali,Online,46,5.2,6,3,1,Ya
+R0061,Jawa Timur,Online,46,12.2,5,1,1,Ya
+R0062,DKI Jakarta,Loket,20,28.6,5,3,1,Tidak
+R0063,Kalimantan Timur,Loket,24,27.6,5,1,3,Tidak
+R0064,Aceh,Loket,18,27.1,5,1,4,Tidak
+R0065,Bali,Loket,63,15.8,1,1,3,Tidak
+R0066,Jawa Tengah,Loket,28,19.1,7,5,3,Ya
+R0067,Sumatera Utara,Loket,52,30.9,1,5,2,Tidak
+R0068,Papua,Loket,37,10.2,3,5,3,Ya
+R0069,Kalimantan Timur,Online,58,4.8,5,4,1,Ya
+R0070,DKI Jakarta,Loket,39,17.7,5,3,1,Ya
+R0071,Jawa Timur,Loket,49,23.0,7,3,2,Tidak
+R0072,Kalimantan Timur,Loket,63,17.8,8,3,4,Ya
+R0073,DKI Jakarta,Loket,47,12.0,4,2,2,Tidak
+R0074,Bali,Loket,25,17.1,4,3,1,Tidak
+R0075,Sulawesi Selatan,Loket,48,21.8,4,5,4,Ya
+R0076,Jawa Barat,Online,63,12.4,4,3,2,Tidak
+R0077,Sumatera Utara,Online,63,11.0,1,2,2,Tidak
+R0078,DKI Jakarta,Loket,49,17.8,8,4,3,Ya
+R0079,Bali,Loket,63,16.5,3,2,3,Ya
+R0080,Bali,Loket,26,26.6,8,1,1,Tidak
+R0081,DKI Jakarta,Loket,68,24.2,4,2,3,Tidak
+R0082,Sumatera Utara,Loket,48,16.3,6,4,3,Ya
+R0083,Aceh,Online,23,5.1,8,4,5,Ya
+R0084,Papua,Online,64,8.1,2,2,4,Ya
+R0085,Papua,Online,23,6.0,2,2,1,Tidak
+R0086,Jawa Timur,Loket,24,14.9,7,1,1,Tidak
+R0087,Aceh,Loket,45,24.9,4,3,3,Ya
+R0088,Jawa Timur,Online,70,11.6,3,1,2,Ya
+R0089,Aceh,Online,33,15.8,1,5,4,Ya
+R0090,Jawa Tengah,Online,48,9.0,8,2,5,Ya
+R0091,DKI Jakarta,Loket,46,26.0,4,2,1,Tidak
+R0092,DKI Jakarta,Online,56,8.1,4,3,1,Ya
+R0093,Jawa Tengah,Loket,49,15.7,6,3,4,Ya
+R0094,Aceh,Loket,48,19.7,8,4,3,Ya
+R0095,Sumatera Utara,Online,21,11.6,8,4,2,Ya
+R0096,Jawa Timur,Loket,59,18.5,6,1,4,Tidak
+R0097,Jawa Timur,Online,63,3.8,3,1,4,Ya
+R0098,DKI Jakarta,Loket,30,20.7,7,4,3,Tidak
+R0099,Jawa Timur,Online,48,16.5,8,2,5,Ya
+R0100,DKI Jakarta,Online,37,1.8,8,4,4,Ya
+R0101,Aceh,Online,54,14.6,8,2,3,Tidak
+R0102,Bali,Online,47,16.2,4,4,5,Ya
+R0103,Jawa Timur,Online,19,8.8,8,2,1,Tidak
+R0104,Papua,Online,26,12.5,2,1,2,Tidak
+R0105,Jawa Timur,Online,49,6.5,6,3,4,Ya
+R0106,Sulawesi Selatan,Online,50,9.1,1,1,1,Tidak
+R0107,DKI Jakarta,Loket,20,25.0,6,2,1,Tidak
+R0108,Sulawesi Selatan,Online,52,16.1,5,2,1,Tidak
+R0109,Sumatera Utara,Loket,27,35.0,6,2,2,Tidak
+R0110,Sumatera Utara,Online,43,2.5,1,4,2,Ya
+R0111,Kalimantan Timur,Loket,26,23.6,7,4,4,Ya
+R0112,Jawa Timur,Online,68,9.3,1,4,1,Ya
+R0113,Kalimantan Timur,Loket,35,20.8,6,4,4,Ya
+R0114,Bali,Online,62,6.1,6,3,1,Tidak
+R0115,DKI Jakarta,Loket,27,28.0,7,3,2,Tidak
+R0116,Jawa Barat,Loket,56,23.6,1,4,4,Ya
+R0117,Kalimantan Timur,Loket,26,16.7,1,4,2,Ya
+R0118,Aceh,Loket,33,20.9,8,1,1,Tidak
+R0119,Sumatera Utara,Online,28,5.1,7,1,4,Ya
+R0120,Jawa Barat,Loket,37,22.3,1,5,1,Tidak
+R0121,Sulawesi Selatan,Online,31,9.1,4,1,5,Tidak
+R0122,Bali,Loket,20,16.2,5,1,1,Tidak
+R0123,Sulawesi Selatan,Loket,52,28.8,1,2,5,Tidak
+R0124,Jawa Tengah,Online,19,6.1,3,2,5,Ya
+R0125,Papua,Loket,67,15.2,5,1,4,Ya
+R0126,Aceh,Online,43,6.8,3,5,4,Ya
+R0127,Papua,Online,21,6.9,6,4,3,Ya
+R0128,Kalimantan Timur,Online,50,3.6,5,1,3,Ya
+R0129,Jawa Barat,Loket,34,27.9,4,4,1,Tidak
+R0130,Aceh,Online,33,8.9,1,4,1,Tidak
+R0131,Sumatera Utara,Loket,43,20.9,3,4,4,Ya
+R0132,Aceh,Online,56,8.7,1,5,1,Ya
+R0133,Jawa Tengah,Online,58,5.2,6,5,2,Ya
+R0134,Kalimantan Timur,Loket,66,10.9,5,4,5,Ya
+R0135,Jawa Barat,Loket,27,22.8,7,4,4,Tidak
+R0136,Bali,Loket,57,23.5,6,1,2,Tidak
+R0137,Jawa Timur,Online,43,4.6,2,1,5,Ya
+R0138,Papua,Loket,61,13.6,2,1,3,Tidak
+R0139,Sulawesi Selatan,Loket,63,16.2,3,3,2,Ya
+R0140,Kalimantan Timur,Online,34,20.8,3,4,3,Tidak
+R0141,Jawa Tengah,Loket,37,22.8,6,1,3,Tidak
+R0142,Jawa Tengah,Online,21,9.0,4,2,5,Ya
+R0143,Jawa Barat,Online,45,7.9,8,3,4,Ya
+R0144,Papua,Loket,58,21.5,2,1,2,Tidak
+R0145,Jawa Barat,Loket,27,22.2,7,3,4,Ya
+R0146,Jawa Tengah,Loket,58,14.2,6,5,4,Ya
+R0147,Papua,Online,38,16.5,4,4,3,Ya
+R0148,Bali,Loket,53,25.8,5,4,3,Ya
+R0149,Aceh,Loket,24,8.3,2,2,1,Tidak
+R0150,Sulawesi Selatan,Online,69,12.5,1,3,2,Ya
+R0151,Jawa Barat,Loket,25,13.2,5,3,4,Tidak
+R0152,Sumatera Utara,Loket,31,24.3,8,5,3,Ya
+R0153,Kalimantan Timur,Loket,37,18.0,7,1,5,Ya
+R0154,Jawa Tengah,Loket,67,26.0,3,1,5,Ya
+R0155,Jawa Tengah,Online,58,20.6,2,3,1,Tidak
+R0156,Sulawesi Selatan,Loket,24,18.2,7,3,3,Ya
+R0157,Aceh,Loket,59,20.2,2,2,3,Tidak
+R0158,Papua,Online,59,9.8,1,1,1,Ya
+R0159,DKI Jakarta,Loket,52,24.1,6,1,1,Tidak
+R0160,Sulawesi Selatan,Loket,43,25.4,8,1,2,Tidak
+R0161,Sumatera Utara,Online,54,1,5,5,4,Ya
+R0162,Jawa Barat,Loket,40,17.3,5,4,3,Ya
+R0163,Aceh,Online,69,12.6,7,5,2,Ya
+R0164,Jawa Timur,Online,36,6.2,2,3,4,Ya
+R0165,Jawa Timur,Loket,33,22.4,7,1,2,Tidak
+R0166,Sumatera Utara,Online,31,7.0,7,1,3,Tidak
+R0167,Papua,Loket,59,14.3,2,2,5,Ya
+R0168,Bali,Loket,66,30.2,1,1,4,Tidak
+R0169,Jawa Tengah,Online,41,22.1,2,4,3,Ya
+R0170,Papua,Online,39,7.2,6,1,2,Ya
+R0171,Jawa Timur,Online,38,1,6,3,1,Ya
+R0172,Jawa Timur,Loket,34,14.9,4,2,3,Ya
+R0173,Jawa Timur,Online,38,15.1,1,3,3,Tidak
+R0174,Jawa Timur,Loket,34,25.7,4,2,3,Ya
+R0175,Bali,Loket,24,23.4,3,1,5,Tidak
+R0176,Aceh,Loket,29,14.3,5,2,5,Ya
+R0177,Jawa Tengah,Loket,24,19.1,6,4,4,Tidak
+R0178,Bali,Online,56,1,1,2,1,Ya
+R0179,Bali,Loket,26,15.8,6,2,5,Ya
+R0180,Aceh,Online,27,7.9,2,3,3,Ya
+R0181,Sumatera Utara,Online,34,8.3,8,3,2,Tidak
+R0182,DKI Jakarta,Online,35,1,3,4,5,Ya
+R0183,Papua,Loket,22,22.5,2,1,3,Tidak
+R0184,Papua,Loket,62,19.3,1,3,4,Tidak
+R0185,Jawa Barat,Loket,40,5.6,4,3,4,Ya
+R0186,Sumatera Utara,Online,48,16.9,2,1,1,Tidak
+R0187,Aceh,Loket,33,26.5,3,1,2,Tidak
+R0188,Papua,Loket,34,24.3,4,4,3,Tidak
+R0189,Jawa Tengah,Online,43,12.2,7,1,4,Tidak
+R0190,Aceh,Online,36,1,8,3,3,Ya
+R0191,Papua,Loket,21,19.4,2,5,1,Ya
+R0192,Sulawesi Selatan,Loket,26,21.8,6,3,2,Tidak
+R0193,Jawa Tengah,Online,64,10.1,4,4,3,Ya
+R0194,Jawa Timur,Loket,57,21.5,7,3,5,Tidak
+R0195,Papua,Online,34,10.1,2,2,1,Ya
+R0196,Papua,Loket,30,15.3,8,1,1,Tidak
+R0197,Papua,Online,46,11.5,8,5,1,Ya
+R0198,Kalimantan Timur,Loket,55,20.8,7,1,4,Tidak
+R0199,Aceh,Loket,36,11.3,5,5,5,Ya
+R0200,Sulawesi Selatan,Online,53,9.1,6,2,4,Ya
+R0201,Jawa Timur,Online,45,2.4,1,1,4,Ya
+R0202,Sumatera Utara,Online,54,4.9,6,5,1,Ya
+R0203,Jawa Tengah,Online,66,7.9,1,3,5,Ya
+R0204,Kalimantan Timur,Online,68,16.4,4,2,5,Ya
+R0205,Kalimantan Timur,Loket,34,19.9,4,3,4,Tidak
+R0206,DKI Jakarta,Online,18,5.2,8,3,1,Tidak
+R0207,Kalimantan Timur,Online,70,2.7,7,2,3,Ya
+R0208,Bali,Online,36,16.1,7,4,1,Ya
+R0209,Papua,Online,19,11.0,3,1,5,Tidak
+R0210,Jawa Timur,Online,29,11.5,8,4,3,Ya
+R0211,Sumatera Utara,Online,52,6.3,6,3,1,Ya
+R0212,Jawa Tengah,Loket,19,17.4,5,3,5,Ya
+R0213,Aceh,Online,19,5.3,7,2,1,Tidak
+R0214,DKI Jakarta,Online,36,10.3,3,4,5,Ya
+R0215,Jawa Barat,Online,62,12.4,6,4,3,Ya
+R0216,Papua,Loket,64,23.8,8,4,1,Tidak
+R0217,Kalimantan Timur,Loket,26,21.9,6,2,5,Tidak
+R0218,Aceh,Online,19,16.3,4,1,3,Tidak
+R0219,Aceh,Loket,58,21.7,1,1,2,Tidak
+R0220,Papua,Online,41,12.3,6,5,4,Ya
+R0221,Kalimantan Timur,Online,33,5.1,7,1,4,Tidak
+R0222,Sulawesi Selatan,Loket,44,15.5,1,3,5,Ya
+R0223,Bali,Loket,26,31.1,6,1,1,Tidak
+R0224,Bali,Online,51,8.1,4,4,3,Ya
+R0225,Sumatera Utara,Loket,54,23.8,3,1,2,Tidak
+R0226,Papua,Loket,57,29.7,4,3,1,Tidak
+R0227,Sulawesi Selatan,Loket,19,27.0,4,2,2,Tidak
+R0228,DKI Jakarta,Loket,21,21.0,1,5,4,Ya
+R0229,Jawa Barat,Loket,23,32.2,3,5,5,Ya
+R0230,Sumatera Utara,Loket,31,21.0,6,2,1,Tidak
+R0231,Aceh,Online,48,13.6,1,2,1,Tidak
+R0232,Aceh,Online,27,7.8,6,3,4,Ya
+R0233,Bali,Loket,57,24.4,5,1,4,Tidak
+R0234,Bali,Online,37,19.7,8,5,2,Ya
+R0235,Jawa Barat,Loket,46,21.2,7,3,5,Ya
+R0236,Kalimantan Timur,Loket,66,30.2,3,1,5,Tidak
+R0237,Jawa Tengah,Online,51,7.1,6,1,5,Ya
+R0238,Jawa Barat,Online,45,9.6,5,4,1,Ya
+R0239,DKI Jakarta,Online,53,14.6,1,4,3,Ya
+R0240,Bali,Online,20,1,4,5,4,Ya
+R0241,Jawa Tengah,Online,34,1,6,2,4,Ya
+R0242,Aceh,Online,25,7.7,1,5,3,Ya
+R0243,Papua,Loket,48,18.0,1,4,5,Ya
+R0244,Sumatera Utara,Loket,56,33.4,6,2,2,Tidak
+R0245,Aceh,Loket,32,13.1,1,3,3,Ya
+R0246,Kalimantan Timur,Loket,40,15.4,6,3,1,Ya
+R0247,Sulawesi Selatan,Online,21,12.1,5,2,3,Tidak
+R0248,Jawa Tengah,Loket,25,17.5,1,5,5,Ya
+R0249,Sumatera Utara,Online,38,14.2,3,2,3,Ya
+R0250,Sumatera Utara,Loket,48,32.6,7,5,2,Tidak
+R0251,Jawa Barat,Loket,39,19.3,7,1,2,Tidak
+R0252,DKI Jakarta,Online,46,6.4,4,5,2,Ya
+R0253,Sumatera Utara,Loket,34,24.5,4,4,3,Tidak
+R0254,Bali,Loket,43,26.8,5,2,2,Tidak
+R0255,Kalimantan Timur,Online,62,9.9,3,5,4,Ya
+R0256,Papua,Loket,44,12.4,5,4,5,Ya
+R0257,Aceh,Loket,20,18.8,2,5,2,Ya
+R0258,Jawa Timur,Online,51,14.8,8,1,2,Tidak
+R0259,Bali,Online,58,15.8,3,4,3,Ya
+R0260,Jawa Timur,Online,37,17.7,6,3,3,Ya
+R0261,Aceh,Loket,35,15.9,1,2,5,Ya
+R0262,Jawa Timur,Online,39,1,6,3,2,Ya
+R0263,Jawa Barat,Online,67,7.2,4,2,1,Ya
+R0264,Jawa Timur,Online,56,3.4,3,2,1,Ya
+R0265,Jawa Tengah,Loket,31,19.3,1,5,2,Tidak
+R0266,Aceh,Loket,25,25.0,1,4,2,Ya
+R0267,Jawa Timur,Loket,48,26.6,6,4,4,Tidak
+R0268,DKI Jakarta,Loket,60,15.2,4,2,1,Tidak
+R0269,DKI Jakarta,Online,18,1,8,1,1,Tidak
+R0270,Papua,Loket,54,25.3,7,1,4,Ya
+R0271,Papua,Loket,25,16.0,3,3,1,Tidak
+R0272,Bali,Loket,22,13.3,4,3,2,Tidak
+R0273,Sulawesi Selatan,Online,42,12.9,1,4,3,Tidak
+R0274,Jawa Barat,Loket,31,17.0,3,5,2,Ya
+R0275,Jawa Timur,Online,65,13.9,2,4,4,Ya
+R0276,Jawa Timur,Loket,27,29.2,4,1,3,Tidak
+R0277,Kalimantan Timur,Online,40,6.1,6,5,5,Ya
+R0278,Jawa Timur,Loket,52,13.2,4,1,1,Tidak
+R0279,Papua,Loket,70,20.0,3,3,3,Tidak
+R0280,Sulawesi Selatan,Loket,32,13.9,5,1,4,Tidak
+R0281,Sumatera Utara,Online,60,12.4,6,3,2,Ya
+R0282,Jawa Tengah,Loket,33,12.3,5,4,2,Ya
+R0283,Jawa Tengah,Online,50,2.7,7,3,1,Ya
+R0284,Jawa Barat,Loket,65,22.6,7,3,3,Ya
+R0285,Bali,Online,70,27.8,7,3,5,Tidak
+R0286,Aceh,Online,59,21.4,2,3,3,Tidak
+R0287,Sumatera Utara,Online,68,1,7,5,2,Ya
+R0288,Papua,Loket,18,9.3,6,3,5,Ya
+R0289,Bali,Loket,42,26.1,4,1,4,Tidak
+R0290,Jawa Tengah,Online,22,17.3,2,2,2,Tidak
+R0291,Kalimantan Timur,Online,68,1.3,4,5,1,Ya
+R0292,Kalimantan Timur,Online,24,6.2,5,5,2,Ya
+R0293,Kalimantan Timur,Loket,45,27.5,2,2,2,Tidak
+R0294,Jawa Timur,Loket,32,14.5,5,1,4,Tidak
+R0295,Sulawesi Selatan,Online,29,11.9,4,5,2,Ya
+R0296,Jawa Barat,Online,28,3.3,1,2,5,Ya
+R0297,Aceh,Loket,22,17.2,3,2,4,Ya
+R0298,Jawa Barat,Loket,57,17.8,6,1,5,Ya
+R0299,Jawa Barat,Online,27,12.3,4,5,2,Ya
+R0300,Jawa Barat,Online,40,3.0,3,3,1,Ya
+R0301,Jawa Tengah,Online,30,13.1,1,4,4,Ya
+R0302,Bali,Online,37,15.0,7,4,5,Ya
+R0303,Jawa Tengah,Online,64,16.3,1,4,2,Tidak
+R0304,Sulawesi Selatan,Online,68,5.3,8,5,5,Ya
+R0305,Sumatera Utara,Loket,24,28.8,7,3,4,Tidak
+R0306,Sulawesi Selatan,Loket,20,25.0,5,1,4,Tidak
+R0307,Jawa Barat,Loket,68,25.4,6,3,1,Tidak
+R0308,Bali,Online,19,15.3,6,1,3,Tidak
+R0309,Jawa Tengah,Online,29,3.9,6,3,5,Ya
+R0310,Sulawesi Selatan,Loket,40,22.0,3,4,2,Tidak
+R0311,Jawa Timur,Loket,64,18.0,3,4,3,Ya
+R0312,Papua,Loket,24,15.7,8,5,4,Ya
+R0313,Sumatera Utara,Loket,28,21.5,7,2,4,Tidak
+R0314,Sumatera Utara,Online,34,8.0,6,2,1,Ya
+R0315,DKI Jakarta,Loket,56,18.6,7,3,1,Tidak
+R0316,DKI Jakarta,Loket,60,20.6,3,1,3,Tidak
+R0317,Jawa Tengah,Loket,49,14.7,6,1,2,Tidak
+R0318,Sulawesi Selatan,Online,40,4.3,2,2,2,Ya
+R0319,Jawa Timur,Loket,34,21.3,7,4,4,Ya
+R0320,Bali,Online,60,9.7,3,1,1,Tidak
+R0321,Sumatera Utara,Online,54,9.9,1,4,1,Ya
+R0322,Kalimantan Timur,Online,23,4.2,7,5,5,Ya
+R0323,Aceh,Online,35,12.2,4,5,4,Ya
+R0324,Sulawesi Selatan,Loket,68,27.0,3,5,5,Ya
+R0325,Sumatera Utara,Loket,54,18.8,3,1,3,Tidak
+R0326,Kalimantan Timur,Online,30,13.7,3,3,4,Ya
+R0327,DKI Jakarta,Online,40,11.8,6,2,4,Ya
+R0328,Kalimantan Timur,Online,69,5.0,7,3,2,Ya
+R0329,Jawa Timur,Loket,68,18.4,5,4,1,Ya
+R0330,Sumatera Utara,Online,44,22.0,4,1,2,Tidak
+R0331,Kalimantan Timur,Online,65,2.2,2,3,1,Ya
+R0332,Jawa Timur,Online,24,3.6,3,2,3,Tidak
+R0333,Papua,Loket,55,14.7,6,3,1,Tidak
+R0334,DKI Jakarta,Online,64,5.9,4,4,1,Ya
+R0335,Kalimantan Timur,Loket,23,17.7,3,5,5,Ya
+R0336,Jawa Tengah,Loket,19,31.1,5,3,1,Tidak
+R0337,Jawa Barat,Loket,49,12.8,7,4,5,Ya
+R0338,Jawa Barat,Online,29,24.6,2,5,3,Tidak
+R0339,Jawa Tengah,Loket,37,21.7,5,3,2,Tidak
+R0340,Sumatera Utara,Online,41,3.5,8,5,4,Ya
+R0341,Sulawesi Selatan,Online,18,10.6,7,1,1,Tidak
+R0342,Sulawesi Selatan,Online,70,2.0,4,5,5,Ya
+R0343,DKI Jakarta,Loket,40,14.7,7,1,3,Tidak
+R0344,Sumatera Utara,Online,31,4.5,5,5,5,Ya
+R0345,Jawa Barat,Online,64,4.8,6,4,1,Ya
+R0346,Sumatera Utara,Online,61,15.8,7,2,4,Ya
+R0347,Jawa Barat,Online,25,4.6,5,2,2,Tidak
+R0348,Jawa Timur,Online,67,5.9,8,2,2,Ya
+R0349,Kalimantan Timur,Loket,25,16.7,7,1,2,Ya
+R0350,Jawa Barat,Online,56,1,4,2,5,Ya
+R0351,Sulawesi Selatan,Loket,41,19.0,1,5,3,Ya
+R0352,Jawa Barat,Loket,47,16.7,7,2,1,Tidak
+R0353,Jawa Barat,Online,28,14.9,7,5,1,Tidak
+R0354,Jawa Timur,Online,19,4.0,1,3,5,Ya
+R0355,Jawa Timur,Online,48,19.4,8,4,2,Tidak
+R0356,Bali,Loket,40,21.2,5,1,4,Tidak
+R0357,Aceh,Online,52,7.3,6,2,2,Ya
+R0358,Jawa Tengah,Loket,31,22.9,3,4,3,Ya
+R0359,DKI Jakarta,Online,22,1,6,5,5,Ya
+R0360,Kalimantan Timur,Loket,22,22.1,5,4,3,Tidak
+R0361,Aceh,Loket,44,13.4,8,4,5,Ya
+R0362,Sumatera Utara,Loket,52,20.8,6,5,3,Ya
+R0363,Jawa Barat,Loket,31,20.6,3,1,4,Ya
+R0364,Jawa Tengah,Online,62,9.4,2,3,1,Ya
+R0365,Aceh,Loket,24,23.9,2,3,4,Ya
+R0366,Sulawesi Selatan,Online,62,7.9,3,1,3,Tidak
+R0367,Bali,Online,70,21.6,8,3,3,Ya
+R0368,Jawa Barat,Loket,54,28.4,7,2,4,Tidak
+R0369,Jawa Timur,Loket,26,20.7,2,2,1,Tidak
+R0370,Bali,Online,43,7.8,2,2,3,Tidak
+R0371,Jawa Timur,Loket,69,27.7,8,5,3,Ya
+R0372,Jawa Timur,Loket,59,24.5,2,4,2,Ya
+R0373,Jawa Timur,Loket,36,24.1,1,3,3,Ya
+R0374,Aceh,Loket,64,28.6,1,2,2,Tidak
+R0375,Sumatera Utara,Loket,28,26.0,3,5,5,Ya
+R0376,Jawa Tengah,Online,54,6.8,6,2,4,Ya
+R0377,Jawa Barat,Loket,69,20.6,2,2,5,Ya
+R0378,Papua,Loket,56,30.4,8,4,5,Ya
+R0379,Sulawesi Selatan,Online,64,11.2,7,5,1,Ya
+R0380,Jawa Barat,Loket,56,9.4,1,1,4,Ya
+R0381,Aceh,Loket,47,21.1,4,5,2,Ya
+R0382,Aceh,Loket,24,16.5,1,1,2,Tidak
+R0383,Papua,Online,59,21.6,3,4,3,Ya
+R0384,DKI Jakarta,Online,63,9.3,7,5,3,Ya
+R0385,Sulawesi Selatan,Online,63,9.7,3,2,2,Tidak
+R0386,Papua,Loket,45,20.0,6,4,5,Ya
+R0387,Jawa Tengah,Online,27,4.9,2,1,4,Ya
+R0388,DKI Jakarta,Online,52,8.8,6,3,2,Ya
+R0389,DKI Jakarta,Loket,22,19.1,5,1,3,Tidak
+R0390,Jawa Timur,Loket,56,18.8,6,2,4,Tidak
+R0391,Jawa Timur,Loket,46,26.9,5,1,4,Ya
+R0392,Papua,Loket,28,20.3,7,4,4,Ya
+R0393,Jawa Tengah,Online,33,6.3,8,2,4,Ya
+R0394,Kalimantan Timur,Online,40,1,4,5,1,Ya
+R0395,Jawa Timur,Loket,65,16.2,2,5,4,Ya
+R0396,Papua,Online,28,11.3,3,2,2,Tidak
+R0397,Bali,Online,48,16.0,5,5,3,Ya
+R0398,Sulawesi Selatan,Loket,40,27.4,3,1,3,Tidak
+R0399,Bali,Online,68,20.1,5,3,3,Ya
+R0400,Aceh,Online,52,12.1,6,3,3,Ya
+R0401,Kalimantan Timur,Loket,65,29.2,3,5,2,Tidak
+R0402,Kalimantan Timur,Online,38,3.7,2,5,3,Ya
+R0403,Jawa Barat,Loket,18,23.8,1,2,1,Tidak
+R0404,Papua,Online,62,12.4,8,5,1,Ya
+R0405,Jawa Barat,Online,41,11.6,7,4,4,Ya
+R0406,Sulawesi Selatan,Online,30,8.0,4,4,5,Ya
+R0407,Jawa Timur,Loket,69,11.6,2,2,3,Tidak
+R0408,Papua,Online,28,12.2,1,3,2,Tidak
+R0409,Aceh,Online,29,12.0,8,2,1,Tidak
+R0410,Sumatera Utara,Loket,36,17.0,6,3,3,Ya
+R0411,Aceh,Online,28,1,8,5,2,Ya
+R0412,Bali,Loket,28,16.8,6,2,4,Ya
+R0413,Papua,Online,70,9.3,1,1,1,Ya
+R0414,Jawa Tengah,Online,39,12.9,6,5,5,Ya
+R0415,Sumatera Utara,Online,45,16.8,4,5,1,Ya
+R0416,Papua,Loket,52,20.8,1,5,2,Ya
+R0417,Bali,Loket,58,29.0,7,5,3,Ya
+R0418,Jawa Tengah,Loket,46,23.7,4,1,3,Tidak
+R0419,Jawa Tengah,Online,25,17.6,2,3,1,Tidak
+R0420,Jawa Barat,Online,36,5.6,6,4,2,Ya
+R0421,Aceh,Loket,42,27.1,8,4,1,Tidak
+R0422,Sumatera Utara,Loket,23,30.1,4,3,2,Tidak
+R0423,Sumatera Utara,Loket,35,11.9,3,1,4,Ya
+R0424,Kalimantan Timur,Online,19,5.0,7,1,2,Tidak
+R0425,Bali,Loket,41,21.1,7,1,4,Tidak
+R0426,Bali,Online,30,11.7,5,1,4,Ya
+R0427,Jawa Tengah,Online,52,2.8,7,5,5,Ya
+R0428,Papua,Loket,37,12.5,1,1,2,Tidak
+R0429,Bali,Online,70,5.4,5,4,1,Ya
+R0430,Sumatera Utara,Online,35,14.2,8,5,1,Ya
+R0431,Bali,Loket,66,30.8,8,5,3,Ya
+R0432,Kalimantan Timur,Loket,61,19.3,5,3,4,Ya
+R0433,Kalimantan Timur,Online,50,8.0,6,5,3,Ya
+R0434,Bali,Online,69,17.8,7,3,4,Ya
+R0435,DKI Jakarta,Online,34,11.3,2,4,1,Ya
+R0436,Jawa Barat,Loket,37,18.3,3,2,2,Tidak
+R0437,Kalimantan Timur,Loket,65,14.9,6,3,3,Ya
+R0438,Sulawesi Selatan,Online,47,11.5,3,5,3,Ya
+R0439,Jawa Barat,Loket,33,24.8,7,5,5,Ya
+R0440,Sulawesi Selatan,Online,19,10.4,5,2,5,Ya
+R0441,Bali,Loket,52,17.9,7,5,5,Ya
+R0442,Jawa Barat,Loket,48,16.4,4,4,4,Ya
+R0443,Sumatera Utara,Online,53,9.1,2,2,3,Ya
+R0444,Papua,Loket,67,20.4,1,1,5,Ya
+R0445,Kalimantan Timur,Online,30,11.9,7,5,5,Ya
+R0446,Sulawesi Selatan,Online,23,23.6,1,3,5,Tidak
+R0447,Sumatera Utara,Online,48,7.6,7,4,1,Ya
+R0448,Papua,Loket,19,17.6,3,1,1,Tidak
+R0449,Sulawesi Selatan,Online,18,11.0,1,1,4,Ya
+R0450,DKI Jakarta,Online,40,1,4,2,3,Ya
+R0451,Aceh,Loket,58,23.9,6,2,4,Tidak
+R0452,Kalimantan Timur,Loket,20,17.8,7,5,3,Ya
+R0453,Bali,Loket,39,21.3,8,1,2,Tidak
+R0454,Jawa Barat,Loket,55,23.3,8,4,1,Tidak
+R0455,DKI Jakarta,Online,35,16.3,7,5,1,Ya
+R0456,Jawa Barat,Loket,29,24.2,2,1,1,Tidak
+R0457,Papua,Online,33,4.5,4,1,5,Ya
+R0458,Jawa Timur,Online,68,2.9,7,1,1,Ya
+R0459,Sulawesi Selatan,Online,41,5.8,2,4,5,Ya
+R0460,Aceh,Loket,47,25.2,3,1,3,Tidak
+R0461,Kalimantan Timur,Loket,68,21.3,2,3,2,Ya
+R0462,Bali,Online,70,7.7,7,3,2,Ya
+R0463,Kalimantan Timur,Online,35,24.2,1,1,1,Tidak
+R0464,Papua,Loket,36,34.4,8,2,4,Tidak
+R0465,Aceh,Online,62,2.4,7,2,1,Ya
+R0466,Bali,Online,68,11.2,8,1,2,Tidak
+R0467,Jawa Timur,Loket,68,28.8,2,5,1,Tidak
+R0468,Jawa Timur,Online,50,14.6,4,3,3,Ya
+R0469,Jawa Timur,Online,34,12.1,5,3,4,Ya
+R0470,Jawa Tengah,Online,42,19.5,6,5,2,Ya
+R0471,Kalimantan Timur,Loket,32,20.2,4,2,5,Tidak
+R0472,Jawa Tengah,Loket,22,25.7,5,1,3,Tidak
+R0473,Papua,Online,42,1.6,2,1,2,Ya
+R0474,Jawa Barat,Online,47,2.0,6,4,5,Ya
+R0475,Bali,Loket,66,9.4,7,1,2,Tidak
+R0476,Jawa Timur,Loket,67,21.2,6,2,4,Tidak
+R0477,Sumatera Utara,Loket,57,8.6,5,4,3,Ya
+R0478,Kalimantan Timur,Online,36,1,5,1,4,Ya
+R0479,Sumatera Utara,Online,66,1,6,4,5,Ya
+R0480,Aceh,Loket,63,13.0,2,4,2,Ya
+R0481,DKI Jakarta,Loket,66,23.4,2,3,2,Tidak
+R0482,Sumatera Utara,Online,31,7.3,6,5,3,Ya
+R0483,Aceh,Online,43,3.1,7,4,3,Ya
+R0484,Kalimantan Timur,Loket,62,35.2,7,2,4,Tidak
+R0485,Jawa Barat,Loket,57,33.9,6,1,4,Tidak
+R0486,Jawa Barat,Loket,35,18.3,2,1,1,Tidak
+R0487,Papua,Online,37,12.8,7,2,3,Ya
+R0488,Bali,Loket,33,18.1,1,4,4,Ya
+R0489,Jawa Barat,Loket,68,29.7,5,1,3,Tidak
+R0490,Sumatera Utara,Loket,21,25.6,2,3,1,Tidak
+R0491,Bali,Online,39,14.3,5,2,3,Tidak
+R0492,Jawa Barat,Online,29,4.3,2,3,4,Ya
+R0493,Sumatera Utara,Online,26,10.0,2,3,1,Tidak
+R0494,Jawa Tengah,Online,19,1.8,2,5,2,Ya
+R0495,Papua,Loket,57,15.2,8,5,4,Ya
+R0496,Bali,Online,26,15.0,7,2,2,Tidak
+R0497,Sulawesi Selatan,Loket,64,22.5,4,1,1,Tidak
+R0498,Kalimantan Timur,Loket,29,17.1,8,4,3,Ya
+R0499,Jawa Barat,Online,46,10.7,8,4,3,Ya
+R0500,Aceh,Online,67,5.8,5,2,3,Ya
+R0501,Papua,Online,44,1,8,3,2,Ya
+R0502,Papua,Online,44,8.2,3,5,1,Tidak
+R0503,Sumatera Utara,Loket,66,10.2,8,5,4,Ya
+R0504,Papua,Loket,42,28.9,8,4,5,Ya
+R0505,Bali,Loket,35,16.0,2,2,4,Ya
+R0506,Papua,Loket,23,24.3,3,4,4,Ya
+R0507,DKI Jakarta,Online,58,7.0,1,3,4,Ya
+R0508,Sumatera Utara,Online,65,8.0,6,1,3,Ya
+R0509,Kalimantan Timur,Online,64,12.6,7,4,3,Ya
+R0510,Sulawesi Selatan,Loket,52,21.1,6,1,4,Tidak
+R0511,Bali,Online,39,3.7,8,4,2,Ya
+R0512,Kalimantan Timur,Loket,42,16.7,1,4,3,Ya
+R0513,Kalimantan Timur,Loket,49,15.7,1,2,2,Tidak
+R0514,Sulawesi Selatan,Loket,43,20.3,3,1,5,Tidak
+R0515,Jawa Timur,Loket,58,10.3,6,5,2,Ya
+R0516,DKI Jakarta,Loket,55,18.8,7,4,5,Ya
+R0517,Jawa Tengah,Online,67,5.0,4,1,3,Ya
+R0518,Jawa Tengah,Loket,21,17.5,1,3,1,Tidak
+R0519,Papua,Online,25,19.0,2,1,2,Tidak
+R0520,Sulawesi Selatan,Loket,45,20.2,4,3,2,Tidak
+R0521,Bali,Loket,27,21.0,3,2,4,Ya
+R0522,Jawa Tengah,Online,27,26.8,8,2,2,Tidak
+R0523,DKI Jakarta,Loket,62,25.3,5,3,1,Tidak
+R0524,Aceh,Loket,37,12.0,7,1,1,Tidak
+R0525,DKI Jakarta,Online,30,9.3,4,1,1,Tidak
+R0526,Kalimantan Timur,Online,58,5.9,8,1,2,Tidak
+R0527,Papua,Loket,45,11.6,6,2,2,Tidak
+R0528,Jawa Barat,Loket,64,22.3,5,2,5,Ya
+R0529,Sumatera Utara,Loket,19,24.3,3,5,2,Ya
+R0530,Bali,Online,32,13.0,1,4,3,Ya
+R0531,Bali,Online,50,5.7,1,2,4,Ya
+R0532,Bali,Loket,35,15.1,4,3,3,Ya
+R0533,Jawa Barat,Online,33,14.2,5,5,5,Ya
+R0534,Sumatera Utara,Online,59,4.7,6,4,1,Ya
+R0535,Bali,Online,33,10.8,5,2,3,Tidak
+R0536,Jawa Timur,Online,55,14.5,7,3,4,Ya
+R0537,Jawa Timur,Loket,38,22.8,1,2,1,Tidak
+R0538,Kalimantan Timur,Loket,44,25.0,1,3,3,Tidak
+R0539,Jawa Barat,Loket,66,17.6,8,4,2,Tidak
+R0540,Sulawesi Selatan,Loket,59,29.4,6,4,2,Tidak
+R0541,Bali,Online,36,8.4,3,3,4,Ya
+R0542,Jawa Timur,Loket,33,18.2,2,4,2,Tidak
+R0543,Sumatera Utara,Loket,32,14.4,6,2,5,Ya
+R0544,Sulawesi Selatan,Online,25,10.1,4,3,2,Tidak
+R0545,Kalimantan Timur,Loket,41,27.8,2,3,3,Tidak
+R0546,Sumatera Utara,Online,26,2.4,3,4,1,Tidak
+R0547,Papua,Loket,19,13.6,7,3,3,Tidak
+R0548,Aceh,Online,25,1,1,2,1,Tidak
+R0549,Jawa Tengah,Loket,26,21.6,4,2,1,Tidak
+R0550,Bali,Loket,53,20.3,7,3,3,Tidak
+R0551,Jawa Tengah,Loket,36,22.7,6,4,5,Ya
+R0552,Jawa Timur,Online,46,13.7,1,3,5,Ya
+R0553,DKI Jakarta,Loket,59,21.0,1,4,4,Ya
+R0554,Sulawesi Selatan,Online,56,6.1,4,2,3,Ya
+R0555,Kalimantan Timur,Loket,18,15.4,6,2,5,Ya
+R0556,Bali,Online,23,8.9,2,5,3,Ya
+R0557,Sumatera Utara,Online,21,7.2,1,1,3,Ya
+R0558,Jawa Barat,Loket,38,11.8,5,4,4,Ya
+R0559,Aceh,Online,25,2.4,3,2,4,Ya
+R0560,Aceh,Loket,33,32.5,7,1,4,Tidak
+R0561,Jawa Timur,Loket,42,20.3,2,3,3,Ya
+R0562,Jawa Tengah,Loket,48,23.9,8,1,4,Tidak
+R0563,Sumatera Utara,Online,38,1.0,6,2,1,Ya
+R0564,Sulawesi Selatan,Loket,29,18.2,8,5,1,Ya
+R0565,Sumatera Utara,Loket,21,21.7,8,1,1,Tidak
+R0566,Papua,Online,30,12.1,1,3,5,Ya
+R0567,Kalimantan Timur,Online,51,20.3,6,2,3,Tidak
+R0568,Bali,Loket,49,22.3,8,2,2,Tidak
+R0569,DKI Jakarta,Online,37,6.7,7,5,2,Ya
+R0570,Jawa Tengah,Online,60,9.6,8,4,5,Ya
+R0571,Jawa Barat,Online,19,7.4,8,2,5,Ya
+R0572,Jawa Tengah,Online,18,17.2,8,4,5,Ya
+R0573,Jawa Tengah,Loket,49,22.4,3,4,4,Ya
+R0574,Jawa Tengah,Online,22,1.6,6,5,3,Ya
+R0575,Jawa Tengah,Loket,24,18.7,2,2,5,Tidak
+R0576,Jawa Barat,Loket,28,10.1,7,5,5,Ya
+R0577,Papua,Loket,33,13.8,1,2,3,Ya
+R0578,Papua,Loket,34,16.5,1,3,5,Ya
+R0579,Jawa Barat,Online,33,12.5,8,4,3,Tidak
+R0580,Jawa Timur,Online,36,12.5,7,4,1,Ya
+R0581,Sulawesi Selatan,Loket,52,19.8,6,1,2,Tidak
+R0582,Sulawesi Selatan,Online,22,27.1,3,2,3,Tidak
+R0583,Papua,Online,70,4.5,2,1,5,Ya
+R0584,Jawa Barat,Loket,47,19.1,3,3,1,Tidak
+R0585,Jawa Tengah,Loket,33,27.2,4,2,1,Tidak
+R0586,Papua,Loket,40,20.4,4,4,5,Ya
+R0587,Sumatera Utara,Loket,45,24.0,2,3,4,Ya
+R0588,Kalimantan Timur,Online,50,1,1,4,4,Ya
+R0589,Sumatera Utara,Loket,42,9.8,4,4,5,Ya
+R0590,Jawa Barat,Online,69,9.0,5,2,2,Ya
+R0591,Jawa Barat,Online,21,4.4,3,1,4,Ya
+R0592,Jawa Timur,Online,65,8.6,4,3,4,Ya
+R0593,Kalimantan Timur,Loket,30,29.5,5,4,5,Ya
+R0594,Bali,Loket,70,30.3,8,1,2,Tidak
+R0595,Kalimantan Timur,Online,23,5.3,8,4,5,Ya
+R0596,DKI Jakarta,Loket,35,30.8,8,2,1,Tidak
+R0597,Sumatera Utara,Online,63,11.1,6,2,2,Tidak
+R0598,Jawa Timur,Loket,59,29.8,4,5,4,Ya
+R0599,Sulawesi Selatan,Loket,30,29.3,5,3,3,Tidak
+R0600,Jawa Timur,Online,46,13.3,1,4,1,Tidak
+R0601,Papua,Loket,20,12.0,4,5,2,Ya
+R0602,Sumatera Utara,Loket,52,21.7,5,1,3,Tidak
+R0603,Jawa Timur,Online,67,14.9,3,3,2,Tidak
+R0604,Sulawesi Selatan,Loket,70,21.0,8,5,1,Tidak
+R0605,Jawa Timur,Loket,26,12.2,1,3,5,Ya
+R0606,Bali,Loket,37,15.7,3,1,5,Tidak
+R0607,Kalimantan Timur,Loket,44,5.3,6,1,4,Tidak
+R0608,Sulawesi Selatan,Online,45,8.2,7,5,4,Ya
+R0609,Jawa Barat,Online,25,10.1,4,3,3,Ya
+R0610,Jawa Tengah,Loket,45,10.0,7,5,5,Ya
+R0611,Sumatera Utara,Loket,21,21.5,2,2,2,Tidak
+R0612,Sulawesi Selatan,Online,55,8.7,7,3,2,Ya
+R0613,Sumatera Utara,Online,67,10.7,8,1,3,Ya
+R0614,Sulawesi Selatan,Online,57,8.1,4,4,3,Ya
+R0615,Papua,Loket,34,30.7,6,5,2,Ya
+R0616,Sumatera Utara,Online,45,7.9,6,1,4,Ya
+R0617,DKI Jakarta,Loket,40,7.7,4,1,1,Tidak
+R0618,Aceh,Loket,67,18.9,8,1,1,Tidak
+R0619,Papua,Online,36,1,2,1,1,Ya
+R0620,Kalimantan Timur,Online,18,26.1,4,2,2,Tidak
+R0621,Sumatera Utara,Loket,45,24.7,3,3,1,Tidak
+R0622,Aceh,Online,18,13.1,2,5,2,Ya
+R0623,Jawa Tengah,Online,35,6.4,2,5,2,Ya
+R0624,Aceh,Loket,21,25.0,4,5,4,Ya
+R0625,Jawa Tengah,Online,33,2.3,8,5,4,Ya
+R0626,Jawa Tengah,Online,28,15.2,1,2,5,Ya
+R0627,Bali,Online,48,7.0,1,3,2,Ya
+R0628,Jawa Timur,Online,63,9.3,5,4,2,Ya
+R0629,DKI Jakarta,Online,68,5.0,5,2,3,Ya
+R0630,Sumatera Utara,Online,66,13.0,2,3,1,Ya
+R0631,Sumatera Utara,Online,39,4.0,5,5,5,Ya
+R0632,Aceh,Loket,44,18.1,7,1,3,Tidak
+R0633,DKI Jakarta,Loket,23,16.3,5,5,2,Ya
+R0634,Papua,Online,59,3.8,6,4,5,Ya
+R0635,Jawa Tengah,Loket,63,23.9,3,2,5,Tidak
+R0636,Kalimantan Timur,Online,39,14.9,3,4,2,Ya
+R0637,Aceh,Online,43,1,8,5,5,Ya
+R0638,Aceh,Online,25,4.7,5,5,5,Ya
+R0639,Sumatera Utara,Online,53,14.0,1,4,3,Ya
+R0640,Kalimantan Timur,Online,39,1.8,1,4,3,Ya
+R0641,Jawa Tengah,Online,27,19.2,5,5,1,Tidak
+R0642,DKI Jakarta,Online,52,17.7,5,4,1,Tidak
+R0643,Kalimantan Timur,Loket,40,27.5,6,5,5,Ya
+R0644,Jawa Barat,Loket,59,26.6,5,2,2,Tidak
+R0645,Jawa Barat,Online,31,3.7,6,3,1,Tidak
+R0646,Sumatera Utara,Loket,33,17.0,4,1,4,Tidak
+R0647,Sulawesi Selatan,Online,26,1,1,1,4,Ya
+R0648,DKI Jakarta,Online,69,11.6,2,3,2,Tidak
+R0649,Sulawesi Selatan,Loket,42,11.4,7,2,2,Tidak
+R0650,Kalimantan Timur,Loket,47,27.6,3,3,3,Tidak
+R0651,DKI Jakarta,Online,68,2.3,7,2,5,Ya
+R0652,Papua,Online,43,11.2,1,3,5,Ya
+R0653,Kalimantan Timur,Online,53,8.1,4,5,3,Ya
+R0654,Jawa Tengah,Online,26,1,6,5,1,Tidak
+R0655,Jawa Timur,Online,63,10.9,6,4,1,Tidak
+R0656,Kalimantan Timur,Online,37,5.8,6,1,3,Ya
+R0657,Jawa Tengah,Loket,61,6.3,3,1,1,Tidak
+R0658,DKI Jakarta,Loket,67,18.6,6,2,3,Tidak
+R0659,Sulawesi Selatan,Online,40,2.2,3,5,4,Ya
+R0660,Jawa Timur,Online,62,1,4,4,1,Ya
+R0661,Sumatera Utara,Online,41,14.9,4,1,5,Tidak
+R0662,Kalimantan Timur,Online,39,7.7,3,2,2,Tidak
+R0663,Kalimantan Timur,Loket,27,12.9,1,2,5,Ya
+R0664,Sumatera Utara,Online,42,10.9,8,3,1,Tidak
+R0665,DKI Jakarta,Online,54,10.5,2,4,4,Ya
+R0666,Aceh,Loket,43,22.3,6,1,2,Tidak
+R0667,Jawa Timur,Online,65,6.3,7,2,5,Ya
+R0668,Jawa Barat,Loket,32,21.6,8,5,4,Ya
+R0669,Jawa Barat,Loket,59,21.5,2,3,2,Tidak
+R0670,Bali,Loket,47,12.5,4,5,4,Ya
+R0671,Papua,Loket,31,29.1,4,1,3,Tidak
+R0672,Jawa Barat,Online,30,9.3,8,4,3,Ya
+R0673,DKI Jakarta,Loket,45,25.0,5,3,1,Tidak
+R0674,Sumatera Utara,Loket,63,32.9,4,1,2,Tidak
+R0675,Bali,Online,68,3.4,3,1,4,Ya
+R0676,Sulawesi Selatan,Online,43,6.1,1,1,3,Tidak
+R0677,Jawa Timur,Loket,21,21.8,4,3,1,Tidak
+R0678,Jawa Tengah,Online,24,10.4,6,4,1,Tidak
+R0679,Jawa Tengah,Loket,48,19.0,7,1,3,Tidak
+R0680,Jawa Barat,Loket,56,7.4,2,3,3,Ya
+R0681,Sumatera Utara,Online,18,15.5,6,3,2,Tidak
+R0682,Papua,Online,47,6.3,6,1,3,Ya
+R0683,Aceh,Loket,54,21.4,4,4,1,Tidak
+R0684,Kalimantan Timur,Loket,32,22.8,8,1,2,Tidak
+R0685,Jawa Tengah,Loket,18,17.2,3,5,4,Ya
+R0686,Aceh,Online,37,16.9,1,2,1,Tidak
+R0687,DKI Jakarta,Online,40,19.5,6,2,3,Ya
+R0688,Jawa Barat,Online,63,11.4,7,5,2,Ya
+R0689,Jawa Tengah,Online,35,3.8,2,2,1,Tidak
+R0690,Sulawesi Selatan,Loket,53,14.0,3,5,1,Tidak
+R0691,Jawa Tengah,Loket,28,24.0,1,2,1,Tidak
+R0692,DKI Jakarta,Online,25,14.6,7,3,2,Tidak
+R0693,DKI Jakarta,Online,19,13.6,4,5,3,Ya
+R0694,Sulawesi Selatan,Loket,48,14.4,8,1,3,Ya
+R0695,Kalimantan Timur,Online,25,4.9,2,5,2,Ya
+R0696,Papua,Loket,41,23.8,6,4,1,Tidak
+R0697,Bali,Online,28,17.0,1,4,4,Ya
+R0698,Papua,Loket,30,34.5,2,3,3,Tidak
+R0699,DKI Jakarta,Online,30,18.5,2,1,4,Ya
+R0700,Jawa Timur,Loket,53,22.4,4,4,3,Ya
+R0701,Sulawesi Selatan,Online,27,10.6,8,3,5,Ya
+R0702,Jawa Timur,Loket,35,22.2,1,5,4,Ya
+R0703,Sumatera Utara,Loket,23,19.1,3,4,4,Ya
+R0704,DKI Jakarta,Online,37,1,4,2,1,Ya
+R0705,Jawa Timur,Online,32,6.4,1,1,3,Tidak
+R0706,Bali,Online,52,5.6,1,1,2,Tidak
+R0707,Sumatera Utara,Loket,58,13.7,3,2,1,Tidak
+R0708,Sumatera Utara,Loket,24,27.0,8,1,3,Tidak
+R0709,Jawa Tengah,Loket,51,32.6,5,5,4,Tidak
+R0710,Aceh,Online,66,1.8,3,3,1,Ya
+R0711,DKI Jakarta,Online,68,1,2,3,3,Ya
+R0712,Papua,Online,33,9.8,6,3,4,Ya
+R0713,Jawa Barat,Loket,48,34.5,2,3,2,Tidak
+R0714,Sumatera Utara,Online,39,3.4,4,5,5,Ya
+R0715,Kalimantan Timur,Loket,41,22.8,7,3,2,Tidak
+R0716,Bali,Loket,59,26.8,2,2,5,Tidak
+R0717,Aceh,Online,68,10.4,1,5,2,Ya
+R0718,Bali,Loket,62,25.6,8,5,1,Tidak
+R0719,Kalimantan Timur,Loket,25,26.6,7,5,3,Ya
+R0720,Sulawesi Selatan,Loket,62,26.4,1,2,2,Tidak
+R0721,Sulawesi Selatan,Loket,40,21.7,5,5,1,Ya
+R0722,Papua,Online,53,15.9,7,2,3,Tidak
+R0723,Sumatera Utara,Online,66,5.4,6,5,3,Ya
+R0724,Sumatera Utara,Loket,65,17.8,2,2,3,Ya
+R0725,Sulawesi Selatan,Online,32,16.3,5,5,3,Ya
+R0726,Sumatera Utara,Loket,70,27.6,8,4,5,Ya
+R0727,Sumatera Utara,Loket,18,22.9,2,3,2,Tidak
+R0728,Jawa Timur,Online,57,12.1,4,2,1,Tidak
+R0729,Bali,Online,43,11.0,6,4,5,Ya
+R0730,Aceh,Loket,51,19.9,4,4,4,Ya
+R0731,Bali,Loket,68,23.7,4,3,5,Ya
+R0732,Sumatera Utara,Loket,31,27.8,3,1,2,Tidak
+R0733,Kalimantan Timur,Loket,59,14.1,6,5,2,Ya
+R0734,Aceh,Loket,64,20.4,1,2,5,Ya
+R0735,Jawa Tengah,Online,60,1.5,5,5,1,Ya
+R0736,Jawa Barat,Loket,25,24.6,1,3,5,Ya
+R0737,Aceh,Loket,18,24.2,3,1,3,Tidak
+R0738,Papua,Loket,50,25.8,2,4,5,Ya
+R0739,Sumatera Utara,Loket,53,27.1,7,2,3,Tidak
+R0740,Bali,Loket,37,12.2,8,2,3,Tidak
+R0741,DKI Jakarta,Loket,53,9.8,2,2,5,Ya
+R0742,Jawa Barat,Loket,25,18.0,5,1,1,Tidak
+R0743,Bali,Loket,45,31.6,5,2,3,Tidak
+R0744,Papua,Online,29,9.5,2,1,5,Ya
+R0745,Sulawesi Selatan,Online,64,10.1,4,1,4,Ya
+R0746,Jawa Tengah,Loket,35,23.0,2,3,2,Tidak
+R0747,DKI Jakarta,Loket,31,28.2,3,2,1,Tidak
+R0748,Sumatera Utara,Loket,29,31.7,3,2,5,Tidak
+R0749,Sumatera Utara,Loket,29,24.3,3,3,4,Tidak
+R0750,Jawa Timur,Online,53,13.5,1,5,3,Ya
+R0751,Papua,Online,36,1,4,2,1,Ya
+R0752,Jawa Tengah,Online,52,3.4,7,5,2,Ya
+R0753,Jawa Timur,Online,66,18.3,4,4,2,Tidak
+R0754,Sumatera Utara,Loket,70,28.5,7,2,4,Ya
+R0755,Kalimantan Timur,Loket,55,15.4,6,5,1,Ya
+R0756,Sulawesi Selatan,Loket,41,25.2,5,2,2,Tidak
+R0757,Sulawesi Selatan,Loket,23,7.3,4,5,1,Ya
+R0758,Bali,Loket,24,25.7,6,3,4,Tidak
+R0759,Papua,Online,30,19.2,5,4,4,Ya
+R0760,Kalimantan Timur,Loket,58,18.7,4,5,4,Ya
+R0761,DKI Jakarta,Online,26,13.1,7,1,3,Tidak
+R0762,DKI Jakarta,Loket,27,18.5,5,1,1,Tidak
+R0763,Papua,Online,21,8.6,2,2,4,Ya
+R0764,Jawa Barat,Online,37,6.2,3,1,3,Tidak
+R0765,Sulawesi Selatan,Loket,18,27.1,2,2,4,Tidak
+R0766,Papua,Online,40,16.6,6,5,5,Ya
+R0767,Jawa Tengah,Online,19,10.5,3,5,4,Ya
+R0768,Aceh,Loket,19,16.5,7,2,2,Tidak
+R0769,Papua,Online,30,8.8,2,5,2,Ya
+R0770,Aceh,Online,43,9.9,8,3,5,Ya
+R0771,Sumatera Utara,Loket,63,29.9,7,4,5,Ya
+R0772,Jawa Barat,Online,41,16.1,1,5,3,Ya
+R0773,Sumatera Utara,Loket,42,19.9,5,2,3,Tidak
+R0774,Bali,Online,64,6.6,7,5,2,Ya
+R0775,Aceh,Online,40,14.4,4,1,4,Ya
+R0776,DKI Jakarta,Loket,31,19.2,8,5,4,Ya
+R0777,Jawa Timur,Loket,52,27.2,7,5,1,Tidak
+R0778,DKI Jakarta,Loket,23,24.8,5,2,2,Tidak
+R0779,Sumatera Utara,Loket,29,22.7,1,4,1,Tidak
+R0780,Bali,Online,54,10.7,7,4,5,Ya
+R0781,Jawa Timur,Online,70,13.1,7,2,1,Tidak
+R0782,Jawa Tengah,Online,63,21.8,8,1,5,Ya
+R0783,DKI Jakarta,Online,56,10.8,4,2,5,Ya
+R0784,Jawa Timur,Online,36,10.2,8,5,4,Ya
+R0785,Papua,Online,66,5.3,1,5,4,Ya
+R0786,Aceh,Online,68,6.4,7,2,3,Ya
+R0787,Papua,Loket,34,28.0,1,4,2,Tidak
+R0788,DKI Jakarta,Online,55,20.7,4,3,2,Tidak
+R0789,Sulawesi Selatan,Online,68,10.6,4,2,2,Tidak
+R0790,Kalimantan Timur,Loket,27,17.3,7,3,2,Tidak
+R0791,Aceh,Loket,22,23.1,4,1,1,Tidak
+R0792,Bali,Online,55,4.0,1,2,2,Ya
+R0793,Aceh,Loket,64,20.1,3,1,2,Tidak
+R0794,Kalimantan Timur,Online,58,9.7,1,2,4,Ya
+R0795,Jawa Timur,Online,44,2.6,2,4,2,Ya
+R0796,Jawa Tengah,Online,70,1,1,4,2,Ya
+R0797,Sumatera Utara,Online,39,1,2,4,5,Ya
+R0798,DKI Jakarta,Loket,45,11.7,2,2,3,Tidak
+R0799,DKI Jakarta,Online,33,10.5,4,4,1,Ya
+R0800,Kalimantan Timur,Online,31,4.6,1,2,3,Ya
+R0801,Kalimantan Timur,Loket,24,25.9,2,3,1,Tidak
+R0802,Aceh,Online,56,9.0,3,2,3,Ya
+R0803,Jawa Barat,Loket,70,19.8,3,2,2,Tidak
+R0804,Sulawesi Selatan,Online,24,3.1,8,2,2,Tidak
+R0805,Jawa Barat,Online,45,15.9,6,3,3,Tidak
+R0806,DKI Jakarta,Online,59,12.4,4,3,5,Ya
+R0807,Jawa Tengah,Loket,39,17.3,7,2,5,Ya
+R0808,Bali,Loket,40,21.8,2,5,1,Tidak
+R0809,DKI Jakarta,Online,18,1,5,4,5,Ya
+R0810,Jawa Barat,Online,65,12.5,7,5,4,Ya
+R0811,Papua,Loket,43,28.3,2,5,1,Tidak
+R0812,Papua,Loket,50,25.2,6,2,1,Tidak
+R0813,Aceh,Loket,56,22.0,2,1,2,Tidak
+R0814,Aceh,Loket,60,16.0,6,5,1,Tidak
+R0815,Jawa Timur,Loket,48,23.4,7,5,2,Tidak
+R0816,Jawa Barat,Online,58,2.8,6,2,5,Ya
+R0817,Bali,Online,59,21.5,4,3,3,Tidak
+R0818,Jawa Barat,Online,28,5.0,5,2,4,Ya
+R0819,Jawa Timur,Online,40,16.9,5,5,3,Ya
+R0820,DKI Jakarta,Loket,48,19.9,2,4,4,Tidak
+R0821,Jawa Timur,Online,29,1.6,5,1,1,Ya
+R0822,Sumatera Utara,Loket,59,24.1,7,5,4,Ya
+R0823,Jawa Barat,Loket,38,25.5,3,4,2,Tidak
+R0824,Bali,Loket,18,30.0,7,2,1,Tidak
+R0825,Sumatera Utara,Online,41,5.6,3,2,2,Tidak
+R0826,Papua,Loket,70,20.4,1,2,1,Tidak
+R0827,Aceh,Online,37,2.5,4,1,1,Ya
+R0828,Papua,Online,70,14.7,7,5,4,Ya
+R0829,Sumatera Utara,Loket,63,21.8,6,4,1,Ya
+R0830,Papua,Online,41,10.5,7,4,3,Ya
+R0831,Jawa Barat,Online,30,13.1,6,2,2,Tidak
+R0832,Papua,Online,30,12.0,2,5,2,Ya
+R0833,Kalimantan Timur,Online,22,12.8,7,1,5,Ya
+R0834,Kalimantan Timur,Loket,40,17.8,2,5,1,Tidak
+R0835,Sulawesi Selatan,Online,55,10.4,3,5,5,Ya
+R0836,Sumatera Utara,Online,61,7.1,8,2,5,Ya
+R0837,Jawa Timur,Online,20,15.3,6,4,2,Ya
+R0838,Bali,Loket,31,6.7,7,2,4,Ya
+R0839,Papua,Loket,70,11.7,6,5,4,Ya
+R0840,Bali,Loket,62,14.6,3,3,4,Ya
+R0841,Bali,Loket,69,15.9,7,1,1,Ya
+R0842,Jawa Tengah,Loket,66,20.0,8,4,1,Ya
+R0843,DKI Jakarta,Loket,31,29.0,7,5,3,Ya
+R0844,Sumatera Utara,Loket,49,17.4,8,1,5,Tidak
+R0845,Papua,Online,53,1,8,4,3,Ya
+R0846,Jawa Barat,Online,44,10.5,2,5,2,Ya
+R0847,Aceh,Online,26,7.2,2,5,2,Ya
+R0848,DKI Jakarta,Online,46,3.1,4,1,3,Ya
+R0849,Bali,Loket,64,35.1,7,3,5,Ya
+R0850,Sulawesi Selatan,Loket,54,23.9,8,4,5,Ya
+R0851,Jawa Tengah,Online,27,7.2,7,4,4,Ya
+R0852,Jawa Timur,Online,34,12.7,7,5,4,Ya
+R0853,Aceh,Online,63,20.4,5,4,2,Tidak
+R0854,Jawa Timur,Loket,57,21.0,7,3,1,Tidak
+R0855,Jawa Barat,Loket,41,22.1,4,4,2,Ya
+R0856,Bali,Online,41,5.5,1,1,3,Tidak
+R0857,Kalimantan Timur,Loket,23,18.2,5,4,2,Ya
+R0858,Jawa Tengah,Online,43,4.4,4,4,1,Ya
+R0859,Aceh,Online,41,15.0,8,2,5,Ya
+R0860,Jawa Tengah,Loket,54,17.0,2,4,5,Ya
+R0861,Jawa Barat,Loket,22,17.5,6,2,5,Ya
+R0862,Sumatera Utara,Loket,34,25.7,3,4,5,Ya
+R0863,Jawa Barat,Online,35,21.2,6,3,5,Ya
+R0864,Bali,Online,30,1,7,4,2,Ya
+R0865,DKI Jakarta,Online,70,9.8,7,2,4,Ya
+R0866,Kalimantan Timur,Loket,26,19.0,7,4,3,Ya
+R0867,Jawa Barat,Online,37,6.9,8,5,1,Ya
+R0868,Sumatera Utara,Loket,44,23.3,1,1,5,Ya
+R0869,Jawa Barat,Loket,58,8.8,8,3,5,Ya
+R0870,Jawa Tengah,Online,45,5.7,6,2,5,Ya
+R0871,Kalimantan Timur,Online,70,29.0,3,1,4,Tidak
+R0872,Jawa Barat,Loket,43,23.3,7,5,3,Ya
+R0873,Bali,Online,18,8.5,2,2,2,Ya
+R0874,Sumatera Utara,Loket,30,29.3,1,1,5,Tidak
+R0875,Sumatera Utara,Loket,53,27.1,5,3,3,Tidak
+R0876,Jawa Timur,Online,18,18.8,4,2,3,Tidak
+R0877,Jawa Barat,Loket,53,16.0,4,1,3,Tidak
+R0878,Aceh,Online,50,9.0,2,4,3,Ya
+R0879,Aceh,Online,65,3.2,6,2,3,Ya
+R0880,Sumatera Utara,Online,67,13.3,8,4,3,Ya
+R0881,DKI Jakarta,Loket,28,12.5,5,4,4,Ya
+R0882,Jawa Barat,Online,20,10.5,6,3,5,Ya
+R0883,Jawa Timur,Loket,46,15.6,5,4,2,Tidak
+R0884,DKI Jakarta,Online,50,4.7,1,4,3,Ya
+R0885,Papua,Loket,30,23.8,1,1,2,Tidak
+R0886,Papua,Loket,46,25.6,1,1,4,Tidak
+R0887,Jawa Barat,Online,35,7.7,5,4,5,Ya
+R0888,Sulawesi Selatan,Online,44,17.3,8,5,1,Ya
+R0889,Aceh,Online,44,12.9,6,1,4,Ya
+R0890,Sumatera Utara,Online,28,7.9,3,5,5,Ya
+R0891,Bali,Online,70,5.4,7,1,3,Ya
+R0892,Sulawesi Selatan,Online,28,11.0,2,3,3,Ya
+R0893,Jawa Barat,Online,70,1,5,2,2,Ya
+R0894,Sumatera Utara,Loket,55,22.5,2,3,4,Ya
+R0895,Sumatera Utara,Online,19,8.6,5,3,1,Ya
+R0896,Kalimantan Timur,Loket,70,21.2,7,1,5,Tidak
+R0897,Bali,Online,60,6.8,5,5,3,Ya
+R0898,Jawa Tengah,Online,44,2.2,3,1,2,Tidak
+R0899,Jawa Barat,Online,69,4.8,4,2,3,Ya
+R0900,Sulawesi Selatan,Loket,24,26.3,2,2,5,Tidak
+R0901,Jawa Tengah,Loket,21,24.4,1,1,4,Tidak
+R0902,Bali,Online,55,5.3,6,1,2,Tidak
+R0903,Kalimantan Timur,Loket,27,23.2,8,3,2,Tidak
+R0904,Sumatera Utara,Online,68,5.7,4,4,2,Ya
+R0905,Jawa Barat,Loket,18,27.6,6,2,1,Tidak
+R0906,Sumatera Utara,Online,48,7.9,8,1,3,Tidak
+R0907,DKI Jakarta,Loket,33,20.3,3,4,5,Ya
+R0908,Papua,Online,66,15.5,5,3,4,Ya
+R0909,Sumatera Utara,Loket,61,18.8,5,3,3,Ya
+R0910,Jawa Tengah,Loket,58,17.0,7,4,1,Ya
+R0911,Sulawesi Selatan,Loket,29,23.3,6,4,4,Ya
+R0912,Jawa Timur,Online,38,5.9,4,3,2,Ya
+R0913,Papua,Online,58,14.9,5,4,5,Ya
+R0914,Sulawesi Selatan,Loket,33,9.6,8,4,4,Ya
+R0915,Jawa Tengah,Loket,20,23.3,4,4,4,Ya
+R0916,Aceh,Online,45,5.6,8,3,1,Tidak
+R0917,Jawa Timur,Loket,64,21.4,7,3,2,Tidak
+R0918,Jawa Timur,Loket,45,25.8,6,4,5,Ya
+R0919,Kalimantan Timur,Online,50,12.4,3,5,4,Ya
+R0920,Sumatera Utara,Online,41,9.8,6,1,3,Tidak
+R0921,Jawa Tengah,Loket,63,22.7,2,3,3,Tidak
+R0922,Jawa Tengah,Online,21,12.2,7,1,2,Tidak
+R0923,DKI Jakarta,Loket,25,17.2,5,1,4,Tidak
+R0924,Aceh,Loket,33,7.1,6,5,3,Ya
+R0925,Kalimantan Timur,Loket,41,16.4,1,3,2,Ya
+R0926,Papua,Loket,68,27.6,1,3,4,Ya
+R0927,Papua,Loket,32,18.7,2,5,4,Ya
+R0928,Aceh,Online,32,8.5,1,5,4,Ya
+R0929,Jawa Tengah,Online,20,11.1,1,2,5,Ya
+R0930,Jawa Barat,Loket,61,28.3,2,2,2,Tidak
+R0931,Aceh,Loket,18,23.1,2,2,1,Tidak
+R0932,Bali,Loket,23,17.5,7,3,3,Ya
+R0933,Bali,Online,32,7.6,5,2,2,Tidak
+R0934,Kalimantan Timur,Loket,45,30.1,8,3,3,Tidak
+R0935,Jawa Barat,Online,27,1,6,4,4,Ya
+R0936,DKI Jakarta,Online,39,11.7,4,5,4,Ya
+R0937,Sulawesi Selatan,Online,23,13.9,7,5,5,Ya
+R0938,Jawa Tengah,Loket,58,20.4,2,3,4,Ya
+R0939,Aceh,Loket,31,21.5,5,3,3,Ya
+R0940,Jawa Timur,Loket,37,8.3,6,5,3,Ya
+R0941,Jawa Tengah,Online,35,17.1,1,4,4,Ya
+R0942,Jawa Tengah,Online,65,6.0,7,4,1,Ya
+R0943,Jawa Barat,Loket,21,27.2,4,4,2,Tidak
+R0944,DKI Jakarta,Online,49,11.5,3,3,2,Ya
+R0945,Bali,Loket,18,21.4,4,4,1,Tidak
+R0946,Sumatera Utara,Loket,21,18.2,6,4,3,Tidak
+R0947,Jawa Timur,Loket,26,24.6,2,3,3,Tidak
+R0948,Kalimantan Timur,Loket,39,19.7,3,5,2,Tidak
+R0949,Sulawesi Selatan,Loket,60,29.9,4,1,5,Tidak
+R0950,Jawa Tengah,Online,52,10.8,3,3,3,Ya
+R0951,Papua,Online,41,10.1,5,2,2,Tidak
+R0952,Bali,Online,36,3.9,1,2,2,Tidak
+R0953,Papua,Loket,62,22.2,3,3,5,Ya
+R0954,Sulawesi Selatan,Loket,33,14.2,2,4,2,Tidak
+R0955,Papua,Loket,31,21.7,6,4,4,Ya
+R0956,Sumatera Utara,Online,37,5.3,3,1,5,Ya
+R0957,Sumatera Utara,Loket,53,26.1,4,1,2,Tidak
+R0958,Bali,Loket,60,29.9,2,1,1,Tidak
+R0959,Bali,Online,58,1,4,1,3,Ya
+R0960,Kalimantan Timur,Loket,23,19.9,4,1,1,Tidak
+R0961,Jawa Tengah,Loket,68,29.6,5,3,2,Ya
+R0962,DKI Jakarta,Loket,70,24.8,1,4,1,Tidak
+R0963,DKI Jakarta,Online,55,16.8,6,3,3,Tidak
+R0964,Kalimantan Timur,Online,58,1,6,5,2,Ya
+R0965,Bali,Loket,51,20.4,1,4,4,Ya
+R0966,Jawa Timur,Loket,46,15.2,4,2,1,Tidak
+R0967,Sumatera Utara,Loket,38,25.7,1,5,2,Ya
+R0968,DKI Jakarta,Loket,53,25.3,2,2,2,Tidak
+R0969,Sumatera Utara,Online,55,6.7,3,4,1,Ya
+R0970,Jawa Timur,Loket,35,28.8,6,1,3,Tidak
+R0971,Jawa Barat,Loket,46,18.3,5,4,2,Tidak
+R0972,DKI Jakarta,Online,39,12.7,2,3,4,Ya
+R0973,DKI Jakarta,Loket,21,22.6,2,4,5,Ya
+R0974,Bali,Online,42,9.7,5,4,1,Ya
+R0975,Kalimantan Timur,Loket,64,21.5,8,4,1,Tidak
+R0976,DKI Jakarta,Loket,25,22.5,8,3,1,Tidak
+R0977,DKI Jakarta,Loket,64,14.2,7,4,3,Ya
+R0978,DKI Jakarta,Loket,54,32.8,5,2,5,Tidak
+R0979,Sumatera Utara,Loket,44,26.8,3,1,5,Tidak
+R0980,Kalimantan Timur,Online,62,3.5,4,5,2,Ya
+R0981,Papua,Loket,31,16.7,5,4,1,Tidak
+R0982,Kalimantan Timur,Online,56,1.7,4,5,3,Ya
+R0983,Jawa Timur,Online,34,10.2,5,2,3,Ya
+R0984,Jawa Barat,Loket,49,9.3,8,1,3,Ya
+R0985,Jawa Timur,Online,70,17.1,2,2,3,Ya
+R0986,Sulawesi Selatan,Online,48,1,5,1,3,Tidak
+R0987,Jawa Barat,Loket,46,26.0,5,5,5,Ya
+R0988,Jawa Timur,Online,39,17.6,2,1,1,Tidak
+R0989,Jawa Barat,Online,50,9.4,7,1,4,Tidak
+R0990,Jawa Barat,Loket,44,15.6,6,1,4,Tidak
+R0991,Sulawesi Selatan,Loket,19,17.4,8,1,2,Tidak
+R0992,DKI Jakarta,Online,43,19.4,1,2,2,Tidak
+R0993,Kalimantan Timur,Online,40,24.2,3,3,3,Tidak
+R0994,Aceh,Online,54,10.1,7,1,5,Ya
+R0995,Jawa Tengah,Online,63,8.7,7,3,2,Ya
+R0996,Jawa Tengah,Online,25,7.9,5,2,1,Tidak
+R0997,Bali,Loket,60,29.7,5,5,3,Ya
+R0998,Kalimantan Timur,Loket,46,21.6,2,1,3,Tidak
+R0999,Jawa Timur,Online,69,1,7,3,5,Ya
+R1000,Bali,Online,58,7.7,3,3,5,Ya
+R1001,DKI Jakarta,Online,64,1,6,2,1,Ya
+R1002,Jawa Timur,Online,64,14.7,1,4,1,Tidak
+R1003,Sulawesi Selatan,Loket,67,21.1,1,2,3,Ya
+R1004,Jawa Barat,Online,38,8.4,3,5,2,Ya
+R1005,Jawa Timur,Loket,19,26.4,4,3,5,Tidak
+R1006,Sulawesi Selatan,Loket,29,22.6,1,4,4,Ya
+R1007,Sulawesi Selatan,Loket,63,28.2,2,4,4,Tidak
+R1008,Jawa Tengah,Loket,57,22.9,5,2,2,Tidak
+R1009,Sumatera Utara,Online,39,10.3,7,1,2,Tidak
+R1010,Kalimantan Timur,Online,44,9.8,2,4,4,Ya
+R1011,Sumatera Utara,Loket,33,16.9,1,5,1,Ya
+R1012,DKI Jakarta,Online,36,9.2,4,4,5,Ya
+R1013,Papua,Loket,37,16.9,8,3,3,Ya
+R1014,Jawa Timur,Online,59,5.6,6,3,3,Ya
+R1015,Jawa Barat,Online,52,14.9,8,3,5,Ya
+R1016,Sumatera Utara,Online,53,15.1,7,2,4,Ya
+R1017,Jawa Timur,Loket,64,27.6,6,1,3,Tidak
+R1018,Sumatera Utara,Loket,26,10.0,5,2,2,Ya
+R1019,Jawa Barat,Online,45,12.5,1,4,3,Tidak
+R1020,Bali,Online,47,7.0,2,3,5,Ya
+R1021,Sumatera Utara,Online,52,14.4,3,2,1,Tidak
+R1022,Bali,Online,32,12.3,8,4,1,Ya
+R1023,Bali,Loket,38,28.3,1,1,3,Tidak
+R1024,Sulawesi Selatan,Online,43,9.3,5,5,4,Ya
+R1025,Papua,Online,64,12.3,6,2,3,Tidak
+R1026,DKI Jakarta,Loket,54,23.2,2,4,4,Ya
+R1027,Jawa Tengah,Loket,56,26.2,4,4,5,Ya
+R1028,Aceh,Online,50,10.9,4,1,3,Tidak
+R1029,DKI Jakarta,Online,42,9.0,4,5,1,Ya
+R1030,DKI Jakarta,Online,43,12.6,8,4,5,Ya
+R1031,Sulawesi Selatan,Online,29,16.7,8,4,4,Ya
+R1032,Papua,Online,39,11.1,4,2,5,Ya
+R1033,Jawa Timur,Online,24,7.5,3,2,3,Ya
+R1034,Aceh,Loket,46,24.8,5,1,5,Ya
+R1035,Aceh,Loket,35,14.1,8,3,5,Ya
+R1036,Bali,Online,23,4.0,4,5,5,Ya
+R1037,Jawa Barat,Loket,52,17.4,8,1,3,Ya
+R1038,Jawa Barat,Online,65,10.4,2,3,3,Tidak
+R1039,Bali,Online,46,4.5,4,2,2,Ya
+R1040,DKI Jakarta,Loket,30,29.3,2,4,3,Ya
+R1041,Jawa Tengah,Online,35,12.5,5,2,2,Tidak
+R1042,Jawa Barat,Loket,60,14.9,8,1,4,Tidak
+R1043,Sulawesi Selatan,Loket,47,23.1,3,5,5,Ya
+R1044,Jawa Tengah,Loket,20,16.3,6,3,2,Tidak
+R1045,Kalimantan Timur,Online,52,3.0,5,3,2,Ya
+R1046,Sumatera Utara,Loket,54,25.4,7,1,2,Tidak
+R1047,Sulawesi Selatan,Loket,38,16.5,4,5,3,Ya
+R1048,Bali,Online,66,7.1,1,3,4,Ya
+R1049,Jawa Tengah,Loket,62,28.4,3,1,2,Tidak
+R1050,DKI Jakarta,Online,49,10.0,7,4,2,Ya
+R1051,Sulawesi Selatan,Loket,44,22.5,3,5,2,Ya
+R1052,Jawa Timur,Online,44,9.8,7,3,2,Ya
+R1053,Sulawesi Selatan,Loket,27,21.5,1,5,5,Ya
+R1054,Kalimantan Timur,Online,53,11.1,3,3,5,Ya
+R1055,Sumatera Utara,Loket,22,20.9,3,4,1,Tidak
+R1056,Papua,Online,52,10.8,4,3,5,Ya
+R1057,Aceh,Loket,49,21.6,2,3,5,Ya
+R1058,Bali,Loket,46,27.3,7,1,2,Tidak
+R1059,Bali,Online,44,17.0,2,5,2,Ya
+R1060,Aceh,Online,45,2.4,1,4,1,Ya
+R1061,Papua,Online,21,5.0,7,3,1,Tidak
+R1062,Jawa Timur,Loket,35,14.9,7,3,3,Ya
+R1063,DKI Jakarta,Online,38,15.5,4,2,3,Ya
+R1064,Kalimantan Timur,Online,70,1,2,4,1,Ya
+R1065,Sulawesi Selatan,Online,21,2.2,4,5,3,Ya
+R1066,Kalimantan Timur,Loket,45,13.7,4,2,4,Tidak
+R1067,Jawa Timur,Online,30,10.3,7,3,5,Ya
+R1068,Kalimantan Timur,Online,63,2.8,8,1,2,Tidak
+R1069,Jawa Barat,Online,40,12.2,3,4,4,Ya
+R1070,Papua,Online,38,8.8,2,2,2,Ya
+R1071,Bali,Loket,59,27.8,2,4,4,Ya
+R1072,Jawa Barat,Online,59,19.2,4,3,5,Ya
+R1073,Sulawesi Selatan,Online,48,21.6,1,5,1,Tidak
+R1074,Sulawesi Selatan,Online,45,22.0,6,4,1,Tidak
+R1075,Jawa Barat,Loket,55,24.3,7,3,2,Tidak
+R1076,Aceh,Online,24,15.1,2,4,5,Ya
+R1077,Sumatera Utara,Online,29,6.1,6,4,4,Ya
+R1078,Jawa Timur,Online,52,10.1,5,3,1,Ya
+R1079,Sulawesi Selatan,Loket,56,16.6,5,3,2,Ya
+R1080,Jawa Timur,Online,43,9.4,8,5,1,Ya
+R1081,Sulawesi Selatan,Loket,40,12.8,3,3,5,Tidak
+R1082,Aceh,Loket,44,23.2,1,2,4,Tidak
+R1083,Jawa Tengah,Online,56,8.5,7,3,2,Ya
+R1084,Jawa Barat,Online,54,12.6,5,2,1,Ya
+R1085,Sumatera Utara,Loket,22,20.4,6,4,3,Ya
+R1086,Jawa Barat,Online,46,5.6,4,4,5,Ya
+R1087,Jawa Timur,Loket,56,31.9,3,5,3,Tidak
+R1088,Papua,Loket,42,21.5,3,3,2,Ya
+R1089,Sumatera Utara,Loket,49,21.0,1,3,4,Ya
+R1090,Bali,Online,68,5.7,2,3,5,Ya
+R1091,Papua,Online,70,14.8,4,5,1,Tidak
+R1092,DKI Jakarta,Online,21,4.1,4,5,5,Ya
+R1093,Bali,Loket,62,17.8,7,5,3,Ya
+R1094,Kalimantan Timur,Loket,28,23.3,6,3,4,Ya
+R1095,Sumatera Utara,Loket,45,25.7,5,4,3,Ya
+R1096,Bali,Online,37,15.5,5,3,4,Ya
+R1097,Kalimantan Timur,Online,54,21.6,6,5,5,Ya
+R1098,Papua,Loket,44,15.5,7,2,2,Tidak
+R1099,Aceh,Loket,51,16.0,8,5,1,Tidak
+R1100,Sulawesi Selatan,Online,47,10.3,1,1,2,Tidak
+R1101,Jawa Tengah,Loket,68,31.2,3,3,3,Tidak
+R1102,Jawa Timur,Online,58,11.6,1,2,4,Ya
+R1103,Sumatera Utara,Online,67,2.8,8,3,5,Ya
+R1104,DKI Jakarta,Online,52,14.2,2,3,3,Ya
+R1105,Jawa Timur,Loket,51,30.9,2,1,1,Tidak
+R1106,Papua,Loket,51,19.1,1,4,2,Ya
+R1107,Jawa Barat,Online,39,9.1,1,3,2,Ya
+R1108,DKI Jakarta,Online,53,15.9,2,3,2,Ya
+R1109,Jawa Barat,Online,33,1,7,1,3,Tidak
+R1110,Kalimantan Timur,Loket,29,23.0,2,1,2,Tidak
+R1111,Bali,Loket,59,21.5,1,5,1,Tidak
+R1112,Jawa Timur,Online,40,13.7,5,2,5,Ya
+R1113,Jawa Tengah,Online,45,6.8,3,3,1,Tidak
+R1114,DKI Jakarta,Loket,48,11.3,8,5,3,Ya
+R1115,Jawa Timur,Online,21,7.7,1,3,1,Ya
+R1116,DKI Jakarta,Online,24,17.5,2,2,5,Ya
+R1117,Jawa Barat,Loket,20,19.2,1,4,2,Tidak
+R1118,Sumatera Utara,Online,37,8.5,4,5,1,Ya
+R1119,Bali,Online,40,1,3,1,2,Ya
+R1120,Papua,Online,20,1.2,5,1,3,Ya
+R1121,Jawa Timur,Online,23,6.8,7,5,5,Ya
+R1122,Aceh,Online,46,6.9,3,3,4,Ya
+R1123,Papua,Online,24,18.5,5,3,3,Tidak
+R1124,Jawa Tengah,Online,22,8.9,6,4,4,Ya
+R1125,Kalimantan Timur,Online,70,9.5,1,5,4,Ya
+R1126,DKI Jakarta,Loket,63,20.1,1,2,4,Ya
+R1127,Papua,Online,61,9.3,5,1,4,Ya
+R1128,Jawa Timur,Loket,44,7.6,6,2,4,Ya
+R1129,Jawa Tengah,Loket,25,17.8,1,4,5,Ya
+R1130,Papua,Online,66,8.6,3,2,3,Ya
+R1131,Jawa Timur,Online,36,9.1,7,4,4,Ya
+R1132,Aceh,Online,35,8.0,7,1,5,Ya
+R1133,Sulawesi Selatan,Loket,57,17.1,4,3,3,Ya
+R1134,Bali,Online,24,7.3,4,3,1,Tidak
+R1135,Kalimantan Timur,Loket,70,20.1,2,2,2,Tidak
+R1136,Sumatera Utara,Loket,22,27.4,2,2,1,Tidak
+R1137,Sumatera Utara,Online,39,17.6,3,4,5,Ya
+R1138,Jawa Tengah,Online,46,8.4,2,5,5,Ya
+R1139,Aceh,Online,41,13.7,8,5,1,Ya
+R1140,Aceh,Online,47,1,1,3,4,Ya
+R1141,Bali,Loket,60,22.6,5,3,1,Tidak
+R1142,Jawa Barat,Online,55,1,5,2,2,Ya
+R1143,DKI Jakarta,Online,45,13.5,8,1,2,Tidak
+R1144,Sumatera Utara,Loket,38,18.1,4,1,1,Tidak
+R1145,Sumatera Utara,Loket,40,36.5,5,5,4,Tidak
+R1146,Bali,Loket,20,9.2,3,3,3,Tidak
+R1147,Jawa Barat,Loket,50,8.6,5,4,4,Ya
+R1148,Papua,Loket,65,25.6,1,5,3,Ya
+R1149,Sumatera Utara,Loket,68,19.1,2,2,5,Tidak
+R1150,Papua,Online,36,1,5,1,1,Tidak
+R1151,Jawa Barat,Online,48,2.4,8,5,1,Ya
+R1152,Jawa Timur,Online,70,9.9,6,1,4,Ya
+R1153,Sumatera Utara,Online,39,9.2,3,3,4,Ya
+R1154,DKI Jakarta,Loket,52,31.5,7,1,3,Tidak
+R1155,Kalimantan Timur,Online,63,16.8,8,1,2,Ya
+R1156,DKI Jakarta,Online,48,9.7,1,3,2,Ya
+R1157,Papua,Loket,69,21.8,1,2,5,Ya
+R1158,DKI Jakarta,Loket,70,25.2,8,5,2,Ya
+R1159,Jawa Tengah,Online,27,9.6,5,1,3,Ya
+R1160,Bali,Loket,57,19.5,8,5,3,Ya
+R1161,Sumatera Utara,Online,61,12.4,8,2,4,Ya
+R1162,Papua,Loket,60,26.3,6,4,1,Tidak
+R1163,Aceh,Loket,32,17.6,7,4,1,Tidak
+R1164,Aceh,Online,30,5.5,5,3,5,Ya
+R1165,Bali,Online,66,11.3,6,4,2,Ya
+R1166,Sulawesi Selatan,Online,61,11.2,6,1,3,Tidak
+R1167,Bali,Online,27,5.4,3,1,3,Tidak
+R1168,Jawa Tengah,Loket,47,11.7,6,1,5,Tidak
+R1169,Jawa Barat,Loket,70,23.1,2,4,3,Ya
+R1170,Jawa Barat,Loket,51,18.6,3,1,3,Tidak
+R1171,Aceh,Loket,25,16.1,5,4,2,Tidak
+R1172,Bali,Loket,56,22.6,3,1,4,Tidak
+R1173,Sumatera Utara,Loket,49,25.9,6,1,2,Tidak
+R1174,Kalimantan Timur,Online,62,3.7,2,3,4,Ya
+R1175,Kalimantan Timur,Online,36,14.1,3,4,3,Ya
+R1176,Papua,Loket,28,19.0,6,1,4,Tidak
+R1177,Jawa Barat,Online,19,21.4,5,1,3,Tidak
+R1178,DKI Jakarta,Online,61,11.7,3,1,2,Tidak
+R1179,Jawa Timur,Loket,69,14.6,7,5,1,Ya
+R1180,Jawa Tengah,Loket,45,23.7,2,4,5,Ya
+R1181,Bali,Online,49,7.6,2,4,4,Ya
+R1182,Aceh,Loket,25,13.0,5,3,4,Ya
+R1183,Papua,Online,64,20.8,6,5,5,Ya
+R1184,Sulawesi Selatan,Online,33,1,6,2,1,Ya
+R1185,Kalimantan Timur,Online,28,16.4,2,3,4,Ya
+R1186,Bali,Loket,25,1,3,1,2,Ya
+R1187,Sumatera Utara,Loket,60,23.1,7,3,4,Ya
+R1188,Aceh,Loket,30,8.6,1,4,4,Ya
+R1189,Kalimantan Timur,Loket,65,22.8,5,1,2,Tidak
+R1190,Papua,Online,21,11.5,3,1,5,Tidak
+R1191,Jawa Tengah,Online,62,18.9,2,3,5,Ya
+R1192,Kalimantan Timur,Online,19,7.5,5,3,5,Ya
+R1193,Sulawesi Selatan,Loket,34,10.7,7,4,4,Ya
+R1194,Jawa Tengah,Online,56,15.6,1,3,1,Tidak
+R1195,DKI Jakarta,Online,64,24.2,1,5,1,Tidak
+R1196,Jawa Barat,Online,41,9.3,4,5,4,Ya
+R1197,Sumatera Utara,Online,64,10.0,7,1,5,Tidak
+R1198,Jawa Tengah,Online,30,6.6,5,2,3,Ya
+R1199,Bali,Loket,27,27.7,2,2,4,Tidak
+R1200,Kalimantan Timur,Online,59,1,2,2,5,Ya
+R1201,Aceh,Online,39,15.0,3,3,2,Tidak
+R1202,Jawa Tengah,Online,36,4.7,7,4,2,Ya
+R1203,Jawa Timur,Online,44,17.3,5,2,1,Ya
+R1204,Jawa Timur,Online,50,9.1,2,5,2,Ya
+R1205,Jawa Tengah,Loket,69,27.9,2,4,1,Ya
+R1206,Sulawesi Selatan,Online,58,9.4,6,3,3,Tidak
+R1207,Jawa Timur,Loket,47,26.7,6,3,5,Ya
+R1208,Jawa Barat,Loket,32,12.1,4,5,3,Ya
+R1209,Sulawesi Selatan,Online,25,14.3,3,1,2,Tidak
+R1210,Kalimantan Timur,Online,27,13.9,6,4,3,Ya
+R1211,Aceh,Loket,47,18.2,5,1,2,Tidak
+R1212,Papua,Online,28,7.5,2,4,4,Ya
+R1213,Sumatera Utara,Loket,48,18.3,6,3,3,Ya
+R1214,Jawa Barat,Online,55,11.9,1,5,4,Ya
+R1215,Papua,Loket,38,13.7,5,4,4,Ya
+R1216,DKI Jakarta,Online,55,8.0,1,3,4,Ya
+R1217,Bali,Online,54,5.9,7,3,3,Ya
+R1218,Kalimantan Timur,Online,30,7.2,3,2,4,Ya
+R1219,DKI Jakarta,Online,47,2.9,5,2,3,Ya
+R1220,Jawa Tengah,Loket,67,22.2,7,1,4,Tidak
+R1221,Kalimantan Timur,Loket,47,22.4,4,4,2,Ya
+R1222,Sumatera Utara,Online,56,1,1,1,3,Ya
+R1223,Papua,Loket,56,16.5,4,5,3,Ya
+R1224,Sumatera Utara,Loket,24,17.7,4,5,5,Ya
+R1225,Jawa Tengah,Loket,60,23.4,4,2,1,Tidak
+R1226,Jawa Tengah,Online,30,16.3,5,4,2,Ya
+R1227,Bali,Loket,68,10.1,3,2,1,Ya
+R1228,Bali,Online,47,4.7,8,4,5,Ya
+R1229,Aceh,Online,18,13.6,6,4,1,Tidak
+R1230,Jawa Tengah,Online,42,6.4,7,4,4,Ya
+R1231,Sumatera Utara,Online,42,7.3,8,1,5,Ya
+R1232,Jawa Barat,Loket,37,20.4,3,1,5,Tidak
+R1233,Jawa Timur,Online,59,11.5,4,2,5,Ya
+R1234,Kalimantan Timur,Loket,36,15.9,3,1,4,Ya
+R1235,Aceh,Online,18,5.6,3,1,1,Ya
+R1236,DKI Jakarta,Online,25,12.2,8,5,5,Ya
+R1237,Jawa Barat,Loket,30,22.7,3,2,5,Tidak
+R1238,Sumatera Utara,Online,47,1,3,2,2,Ya
+R1239,Sulawesi Selatan,Online,58,2.0,2,2,4,Ya
+R1240,Jawa Timur,Loket,23,21.8,5,4,2,Ya
+R1241,Sumatera Utara,Online,25,2.9,3,5,3,Ya
+R1242,Bali,Online,25,11.0,5,3,1,Tidak
+R1243,DKI Jakarta,Online,42,2.9,1,1,1,Tidak
+R1244,DKI Jakarta,Online,52,7.9,8,3,2,Ya
+R1245,Papua,Loket,36,17.9,1,2,2,Tidak
+R1246,Jawa Barat,Online,32,8.7,3,3,3,Ya
+R1247,Bali,Online,60,1.6,4,1,5,Ya
+R1248,Jawa Barat,Loket,64,30.7,1,2,4,Tidak
+R1249,Papua,Online,52,14.3,4,1,3,Tidak
+R1250,Bali,Loket,68,18.4,6,2,4,Tidak
+R1251,DKI Jakarta,Loket,51,22.9,5,3,2,Ya
+R1252,Papua,Loket,65,15.6,3,5,5,Ya
+R1253,Sumatera Utara,Loket,42,21.8,8,3,3,Tidak
+R1254,Bali,Loket,46,16.1,3,4,3,Ya
+R1255,Jawa Tengah,Loket,52,21.8,2,2,2,Tidak
+R1256,Aceh,Loket,35,19.8,1,5,3,Ya
+R1257,Jawa Timur,Loket,59,26.1,2,2,1,Tidak
+R1258,Jawa Barat,Loket,30,27.6,8,2,2,Tidak
+R1259,Sumatera Utara,Loket,60,19.5,5,1,1,Tidak
+R1260,Sumatera Utara,Loket,43,20.5,3,1,4,Tidak
+R1261,Jawa Timur,Loket,60,26.3,3,2,2,Tidak
+R1262,Kalimantan Timur,Loket,68,22.4,7,1,3,Tidak
+R1263,Aceh,Online,63,21.5,7,4,3,Ya
+R1264,Sumatera Utara,Online,66,1.8,5,5,3,Ya
+R1265,Papua,Online,43,10.6,7,1,1,Tidak
+R1266,DKI Jakarta,Loket,66,18.1,8,2,1,Ya
+R1267,Papua,Loket,47,24.8,5,5,4,Ya
+R1268,Sumatera Utara,Loket,60,19.1,5,3,4,Ya
+R1269,Jawa Timur,Online,52,12.6,4,2,2,Tidak
+R1270,Aceh,Loket,23,26.8,8,4,4,Ya
+R1271,Sumatera Utara,Online,48,7.2,4,5,4,Ya
+R1272,Bali,Online,69,13.3,6,5,3,Ya
+R1273,Bali,Online,45,13.1,6,3,3,Tidak
+R1274,Aceh,Online,55,6.6,6,1,5,Ya
+R1275,DKI Jakarta,Online,56,8.0,7,3,3,Ya
+R1276,Sulawesi Selatan,Loket,28,23.7,8,3,1,Tidak
+R1277,Kalimantan Timur,Online,70,1,8,4,3,Ya
+R1278,Kalimantan Timur,Online,39,15.6,4,4,3,Ya
+R1279,DKI Jakarta,Online,65,8.8,5,5,4,Ya
+R1280,Kalimantan Timur,Online,29,6.8,7,3,3,Ya
+R1281,Aceh,Loket,46,19.2,4,2,3,Tidak
+R1282,Jawa Barat,Loket,34,16.2,3,1,5,Ya
+R1283,Kalimantan Timur,Loket,43,14.0,2,4,2,Tidak
+R1284,DKI Jakarta,Loket,61,19.3,4,1,5,Ya
+R1285,Bali,Online,67,2.2,2,3,1,Ya
+R1286,Aceh,Online,24,2.6,3,5,2,Ya
+R1287,Sumatera Utara,Online,53,6.6,5,2,3,Ya
+R1288,Sumatera Utara,Online,22,5.1,5,5,1,Ya
+R1289,Jawa Timur,Online,59,9.1,1,5,2,Ya
+R1290,Sulawesi Selatan,Online,37,8.4,3,4,5,Ya
+R1291,Jawa Tengah,Loket,61,19.2,5,5,5,Ya
+R1292,Sumatera Utara,Loket,25,25.9,6,5,1,Ya
+R1293,Aceh,Online,30,19.8,3,4,2,Ya
+R1294,Jawa Barat,Loket,44,13.5,4,3,4,Ya
+R1295,Aceh,Loket,50,26.7,8,5,5,Ya
+R1296,Sumatera Utara,Loket,62,28.7,2,3,2,Tidak
+R1297,Jawa Barat,Loket,41,19.8,7,1,1,Tidak
+R1298,Jawa Tengah,Online,44,19.5,7,2,1,Tidak
+R1299,Jawa Timur,Loket,57,19.5,3,3,2,Tidak
+R1300,Sulawesi Selatan,Loket,37,20.6,4,1,4,Ya
+R1301,Sumatera Utara,Online,48,16.0,6,3,1,Ya
+R1302,DKI Jakarta,Online,63,11.2,3,2,1,Tidak
+R1303,Jawa Barat,Online,58,1,7,4,1,Ya
+R1304,Bali,Online,27,10.6,1,2,1,Tidak
+R1305,Kalimantan Timur,Loket,66,38.5,4,1,1,Tidak
+R1306,Sulawesi Selatan,Loket,39,19.7,1,4,3,Tidak
+R1307,Jawa Barat,Loket,41,17.3,3,2,4,Ya
+R1308,Aceh,Loket,68,21.1,3,3,1,Tidak
+R1309,DKI Jakarta,Loket,25,22.3,8,3,1,Tidak
+R1310,Kalimantan Timur,Loket,35,24.7,2,4,5,Ya
+R1311,Aceh,Loket,38,21.9,4,1,5,Tidak
+R1312,Jawa Timur,Loket,32,13.3,8,1,2,Tidak
+R1313,Jawa Timur,Online,53,22.0,8,1,2,Tidak
+R1314,Aceh,Online,39,7.3,6,4,2,Ya
+R1315,Jawa Timur,Online,30,12.4,2,2,4,Tidak
+R1316,Sumatera Utara,Loket,65,19.7,5,4,3,Ya
+R1317,Aceh,Loket,63,28.2,6,4,3,Ya
+R1318,Sulawesi Selatan,Loket,21,20.5,6,3,1,Tidak
+R1319,Jawa Tengah,Online,56,7.8,6,3,4,Ya
+R1320,Jawa Tengah,Loket,30,20.7,3,2,2,Tidak
+R1321,Papua,Loket,55,21.5,7,4,1,Tidak
+R1322,Bali,Loket,33,20.5,8,5,4,Ya
+R1323,DKI Jakarta,Online,54,17.7,7,2,2,Tidak
+R1324,Bali,Online,43,8.0,3,4,1,Ya
+R1325,Sumatera Utara,Loket,30,13.5,8,2,5,Ya
+R1326,Jawa Tengah,Loket,19,18.0,4,2,5,Ya
+R1327,Kalimantan Timur,Loket,60,21.0,8,2,5,Ya
+R1328,Bali,Loket,63,27.2,3,5,3,Ya
+R1329,Jawa Timur,Loket,58,17.9,3,3,4,Ya
+R1330,Bali,Loket,32,23.4,2,4,2,Tidak
+R1331,Sulawesi Selatan,Online,42,1,2,1,3,Ya
+R1332,Sumatera Utara,Loket,22,29.2,2,4,5,Tidak
+R1333,Jawa Tengah,Online,39,11.9,1,2,5,Ya
+R1334,Kalimantan Timur,Online,19,7.5,5,2,2,Tidak
+R1335,Jawa Timur,Online,29,16.4,6,5,1,Tidak
+R1336,Kalimantan Timur,Loket,37,24.7,4,3,4,Ya
+R1337,Sumatera Utara,Online,35,16.8,3,3,3,Ya
+R1338,Bali,Loket,58,4.4,2,3,4,Ya
+R1339,Bali,Online,60,14.5,8,2,2,Tidak
+R1340,Kalimantan Timur,Loket,20,16.7,6,1,3,Tidak
+R1341,Kalimantan Timur,Online,65,19.4,7,4,1,Ya
+R1342,Papua,Online,56,1.7,2,3,4,Ya
+R1343,Jawa Barat,Online,52,13.2,6,4,5,Ya
+R1344,Sumatera Utara,Loket,21,17.4,6,3,1,Ya
+R1345,Jawa Timur,Online,34,17.8,7,4,2,Ya
+R1346,Kalimantan Timur,Loket,59,15.0,4,5,1,Ya
+R1347,Jawa Barat,Loket,54,23.5,6,2,5,Tidak
+R1348,Aceh,Loket,29,16.9,6,5,5,Ya
+R1349,Jawa Timur,Online,49,16.8,3,1,1,Tidak
+R1350,Jawa Barat,Online,23,1,6,5,5,Ya
+R1351,Papua,Loket,41,22.0,6,5,4,Ya
+R1352,Bali,Loket,31,20.0,3,3,1,Tidak
+R1353,Bali,Online,33,6.0,1,2,1,Tidak
+R1354,Sumatera Utara,Loket,64,19.7,5,2,5,Ya
+R1355,Sumatera Utara,Online,58,1,4,3,5,Ya
+R1356,Bali,Online,20,16.1,3,1,1,Tidak
+R1357,Bali,Loket,39,31.3,8,1,4,Tidak
+R1358,Kalimantan Timur,Online,69,11.1,8,5,3,Ya
+R1359,Jawa Barat,Online,68,6.7,4,2,2,Ya
+R1360,DKI Jakarta,Online,21,1.8,3,4,1,Ya
+R1361,Jawa Tengah,Online,25,14.5,4,1,1,Tidak
+R1362,Papua,Online,66,1,4,1,5,Ya
+R1363,DKI Jakarta,Online,40,1,8,2,2,Ya
+R1364,Aceh,Online,39,7.1,8,3,1,Tidak
+R1365,Bali,Online,53,8.7,8,3,3,Tidak
+R1366,Jawa Tengah,Online,23,8.0,4,3,2,Ya
+R1367,Aceh,Loket,19,18.1,1,4,2,Ya
+R1368,Jawa Barat,Online,35,1,1,1,3,Ya
+R1369,Papua,Loket,68,26.9,3,1,1,Tidak
+R1370,Aceh,Loket,30,10.9,6,3,1,Tidak
+R1371,Sumatera Utara,Online,33,19.0,2,2,4,Tidak
+R1372,Sumatera Utara,Online,70,11.0,7,3,1,Tidak
+R1373,Jawa Timur,Loket,53,18.8,3,3,4,Ya
+R1374,Papua,Loket,38,14.1,3,4,1,Tidak
+R1375,Jawa Barat,Online,36,9.7,1,5,5,Ya
+R1376,Jawa Tengah,Online,20,21.3,5,1,5,Tidak
+R1377,Sumatera Utara,Loket,61,15.2,1,1,4,Ya
+R1378,Sulawesi Selatan,Online,45,2.1,2,1,2,Ya
+R1379,Sulawesi Selatan,Online,26,9.7,6,1,5,Ya
+R1380,Jawa Barat,Online,61,2.4,8,1,2,Tidak
+R1381,Aceh,Loket,70,17.4,7,1,4,Ya
+R1382,Jawa Barat,Online,49,10.4,5,4,4,Ya
+R1383,Jawa Timur,Loket,60,32.5,7,5,1,Ya
+R1384,Bali,Loket,49,16.9,7,1,1,Tidak
+R1385,DKI Jakarta,Online,37,11.1,8,1,2,Tidak
+R1386,Papua,Online,60,5.0,6,5,5,Ya
+R1387,DKI Jakarta,Loket,60,18.4,8,5,4,Ya
+R1388,Bali,Loket,60,18.2,7,1,5,Ya
+R1389,Jawa Timur,Online,32,7.1,6,5,5,Ya
+R1390,Jawa Timur,Loket,44,14.1,7,5,4,Ya
+R1391,DKI Jakarta,Online,57,20.8,8,1,3,Tidak
+R1392,Jawa Timur,Online,32,4.4,3,3,5,Ya
+R1393,Jawa Barat,Online,67,7.6,4,2,3,Ya
+R1394,Sulawesi Selatan,Online,37,10.4,2,5,2,Ya
+R1395,Jawa Barat,Loket,53,15.2,8,2,1,Tidak
+R1396,Jawa Tengah,Loket,54,14.5,1,3,5,Ya
+R1397,Bali,Online,62,1,3,2,2,Ya
+R1398,Bali,Loket,29,31.3,4,5,3,Ya
+R1399,Sulawesi Selatan,Online,24,11.6,5,3,3,Ya
+R1400,Aceh,Loket,69,12.4,3,4,1,Ya
+R1401,Jawa Timur,Online,56,13.8,7,1,3,Ya
+R1402,Sumatera Utara,Online,45,7.5,5,5,3,Ya
+R1403,Bali,Online,33,10.9,2,2,1,Tidak
+R1404,Papua,Loket,62,12.8,4,5,1,Ya
+R1405,Papua,Loket,54,30.6,8,5,1,Tidak
+R1406,DKI Jakarta,Online,42,7.8,4,5,5,Ya
+R1407,Bali,Online,32,14.9,7,1,2,Tidak
+R1408,Jawa Tengah,Online,68,2.0,1,5,5,Ya
+R1409,Sumatera Utara,Online,70,26.0,5,2,1,Tidak
+R1410,Bali,Loket,26,26.8,8,5,1,Tidak
+R1411,Papua,Loket,29,21.7,3,1,1,Tidak
+R1412,DKI Jakarta,Loket,58,29.0,8,1,2,Tidak
+R1413,Aceh,Loket,36,24.0,7,3,2,Tidak
+R1414,Sulawesi Selatan,Loket,29,24.1,5,2,5,Ya
+R1415,Aceh,Online,58,23.3,6,1,4,Tidak
+R1416,Sumatera Utara,Online,18,12.7,6,5,4,Ya
+R1417,Jawa Timur,Loket,34,17.8,7,3,5,Ya
+R1418,DKI Jakarta,Online,64,14.9,5,5,3,Ya
+R1419,Aceh,Loket,66,24.2,8,1,3,Tidak
+R1420,Jawa Timur,Online,50,1.9,3,1,5,Ya
+R1421,Papua,Loket,37,11.1,3,3,1,Tidak
+R1422,DKI Jakarta,Loket,34,21.9,3,2,1,Tidak
+R1423,Sulawesi Selatan,Online,21,8.0,4,5,1,Ya
+R1424,Kalimantan Timur,Loket,65,25.6,4,5,4,Ya
+R1425,Jawa Timur,Online,25,9.3,4,5,3,Ya
+R1426,Jawa Barat,Online,35,6.2,8,4,4,Ya
+R1427,Jawa Timur,Online,52,13.6,3,2,1,Ya
+R1428,Sulawesi Selatan,Online,32,22.4,6,1,4,Ya
+R1429,Jawa Tengah,Loket,45,17.1,7,2,3,Ya
+R1430,Aceh,Loket,54,14.3,4,4,5,Ya
+R1431,Jawa Timur,Online,19,19.7,2,2,3,Tidak
+R1432,DKI Jakarta,Loket,67,22.1,6,2,3,Tidak
+R1433,Kalimantan Timur,Loket,26,23.2,2,3,5,Ya
+R1434,DKI Jakarta,Loket,35,23.4,1,5,5,Ya
+R1435,Kalimantan Timur,Online,68,12.7,1,5,2,Ya
+R1436,Papua,Loket,31,19.6,6,3,2,Tidak
+R1437,Jawa Timur,Online,54,12.3,2,1,3,Tidak
+R1438,Aceh,Loket,45,21.5,5,1,2,Tidak
+R1439,Jawa Barat,Online,59,4.3,5,3,5,Ya
+R1440,Sumatera Utara,Loket,39,26.2,8,1,5,Tidak
+R1441,Jawa Timur,Loket,37,13.5,5,2,4,Tidak
+R1442,Jawa Barat,Online,36,13.1,2,3,1,Tidak
+R1443,Aceh,Online,58,7.6,2,4,1,Tidak
+R1444,Jawa Timur,Loket,56,18.0,8,1,5,Ya
+R1445,Jawa Barat,Loket,51,18.6,2,1,3,Ya
+R1446,Papua,Loket,43,22.1,4,5,2,Ya
+R1447,Sulawesi Selatan,Loket,58,18.9,6,5,1,Ya
+R1448,DKI Jakarta,Online,52,7.4,4,3,4,Ya
+R1449,Sulawesi Selatan,Loket,48,18.7,6,3,5,Ya
+R1450,DKI Jakarta,Online,18,15.9,8,1,5,Tidak
+R1451,Bali,Online,28,15.3,5,2,4,Ya
+R1452,Papua,Online,49,5.7,7,3,1,Ya
+R1453,Aceh,Online,20,7.4,2,4,1,Ya
+R1454,Jawa Barat,Online,26,12.2,7,2,1,Tidak
+R1455,Jawa Tengah,Online,47,9.3,5,3,5,Ya
+R1456,Jawa Timur,Loket,20,20.2,7,4,3,Ya
+R1457,Sumatera Utara,Loket,25,23.6,4,3,2,Tidak
+R1458,Sulawesi Selatan,Online,69,9.9,8,5,5,Ya
+R1459,Bali,Loket,39,22.8,2,1,3,Tidak
+R1460,Jawa Barat,Online,41,20.1,1,1,2,Tidak
+R1461,DKI Jakarta,Loket,32,20.8,4,1,2,Tidak
+R1462,DKI Jakarta,Online,39,10.3,3,3,4,Ya
+R1463,Kalimantan Timur,Loket,41,14.3,7,5,1,Ya
+R1464,Jawa Tengah,Online,57,1,2,2,1,Ya
+R1465,Jawa Timur,Online,35,16.6,1,3,1,Ya
+R1466,Sulawesi Selatan,Loket,51,14.1,6,2,1,Tidak
+R1467,Papua,Online,30,17.1,6,5,2,Tidak
+R1468,Sumatera Utara,Loket,31,15.5,7,3,3,Ya
+R1469,Jawa Barat,Loket,61,8.4,1,2,3,Tidak
+R1470,Bali,Online,68,1,1,4,3,Ya
+R1471,Jawa Barat,Loket,34,24.5,3,1,2,Tidak
+R1472,Papua,Online,67,14.2,5,4,5,Ya
+R1473,Sumatera Utara,Online,37,7.5,4,3,4,Ya
+R1474,Sumatera Utara,Loket,58,19.1,6,5,2,Ya
+R1475,Jawa Timur,Online,51,3.8,7,3,5,Ya
+R1476,Papua,Loket,52,19.7,2,2,1,Tidak
+R1477,DKI Jakarta,Online,45,7.6,6,5,5,Ya
+R1478,Papua,Online,20,9.2,7,5,1,Ya
+R1479,Jawa Barat,Loket,19,13.6,3,3,2,Tidak
+R1480,Jawa Barat,Loket,18,23.7,7,1,5,Tidak
+R1481,Bali,Online,66,13.0,3,5,5,Ya
+R1482,Jawa Timur,Online,20,9.7,6,2,5,Ya
+R1483,Jawa Tengah,Loket,25,20.6,1,4,4,Ya
+R1484,Sumatera Utara,Loket,25,6.3,4,5,1,Ya
+R1485,Jawa Timur,Online,51,15.2,7,5,5,Ya
+R1486,Aceh,Online,26,1.3,3,1,3,Tidak
+R1487,Bali,Online,36,1,4,4,3,Ya
+R1488,Kalimantan Timur,Loket,32,17.6,8,4,2,Ya
+R1489,Sulawesi Selatan,Loket,51,21.5,4,1,4,Ya
+R1490,Jawa Tengah,Online,58,13.5,3,3,5,Ya
+R1491,Kalimantan Timur,Online,37,2.9,4,5,3,Ya
+R1492,Bali,Online,36,12.3,3,5,5,Ya
+R1493,Papua,Loket,70,23.8,4,2,5,Tidak
+R1494,Jawa Tengah,Online,35,15.8,5,2,5,Tidak
+R1495,Papua,Online,30,19.1,6,4,3,Ya
+R1496,Papua,Loket,32,17.1,3,5,2,Ya
+R1497,Papua,Online,64,15.5,7,5,3,Ya
+R1498,Jawa Barat,Online,33,12.9,3,1,4,Ya
+R1499,Bali,Online,23,9.3,7,5,2,Ya
+R1500,Aceh,Loket,37,15.8,7,4,1,Tidak
+R1501,Papua,Loket,49,23.8,3,3,3,Tidak
+R1502,Jawa Tengah,Online,19,10.4,5,3,1,Ya
+R1503,DKI Jakarta,Online,26,10.3,2,5,5,Ya
+R1504,Sumatera Utara,Loket,62,14.8,2,1,1,Tidak
+R1505,Aceh,Loket,41,19.4,7,1,3,Tidak
+R1506,Bali,Loket,34,19.8,2,1,4,Tidak
+R1507,Jawa Timur,Loket,63,15.4,8,4,3,Ya
+R1508,Jawa Tengah,Online,48,12.6,7,2,5,Ya
+R1509,Jawa Tengah,Loket,30,24.2,7,1,4,Tidak
+R1510,Aceh,Online,67,8.8,4,4,2,Ya
+R1511,Jawa Barat,Loket,24,24.1,5,3,3,Ya
+R1512,Bali,Online,39,9.6,7,4,1,Ya
+R1513,Jawa Timur,Online,49,2.9,8,4,3,Ya
+R1514,Kalimantan Timur,Loket,23,20.9,4,4,2,Ya
+R1515,Bali,Loket,66,19.8,8,2,5,Ya
+R1516,Kalimantan Timur,Loket,56,25.7,2,1,2,Tidak
+R1517,Jawa Timur,Loket,41,22.5,8,2,1,Tidak
+R1518,Aceh,Loket,38,20.2,5,4,4,Ya
+R1519,Jawa Timur,Online,63,13.5,7,1,1,Tidak
+R1520,Aceh,Online,56,10.7,1,5,2,Ya
+R1521,Kalimantan Timur,Online,65,11.5,5,1,2,Ya
+R1522,Jawa Timur,Online,31,1.4,2,5,5,Ya
+R1523,Aceh,Online,64,5.9,5,2,4,Ya
+R1524,Papua,Online,45,5.4,5,5,5,Ya
+R1525,Bali,Online,24,2.1,1,3,4,Ya
+R1526,Jawa Barat,Loket,48,30.3,1,2,1,Tidak
+R1527,Sumatera Utara,Online,31,9.2,7,4,4,Ya
+R1528,Aceh,Loket,26,20.5,6,1,5,Tidak
+R1529,Sulawesi Selatan,Loket,30,25.2,2,1,2,Tidak
+R1530,DKI Jakarta,Online,22,13.1,5,2,4,Tidak
+R1531,Sulawesi Selatan,Loket,30,18.3,5,5,4,Ya
+R1532,DKI Jakarta,Online,52,13.8,7,1,2,Tidak
+R1533,Aceh,Online,69,2.8,7,5,4,Ya
+R1534,Jawa Barat,Online,51,1,4,5,2,Ya
+R1535,Jawa Timur,Online,19,7.5,6,5,1,Tidak
+R1536,Sumatera Utara,Loket,40,20.9,8,2,3,Tidak
+R1537,DKI Jakarta,Online,51,5.6,8,2,1,Ya
+R1538,Sumatera Utara,Online,58,5.0,5,2,3,Ya
+R1539,DKI Jakarta,Online,58,15.7,6,3,4,Ya
+R1540,Sulawesi Selatan,Loket,20,31.3,1,2,3,Tidak
+R1541,Aceh,Loket,31,27.3,4,2,4,Ya
+R1542,Kalimantan Timur,Online,38,10.7,5,2,3,Tidak
+R1543,Aceh,Loket,44,16.5,1,5,3,Ya
+R1544,Kalimantan Timur,Online,27,7.1,8,5,5,Ya
+R1545,Sumatera Utara,Loket,66,20.0,8,3,4,Ya
+R1546,Kalimantan Timur,Loket,47,24.1,4,2,5,Ya
+R1547,DKI Jakarta,Online,26,2.7,4,4,2,Ya
+R1548,Aceh,Loket,69,29.4,6,2,3,Tidak
+R1549,Aceh,Online,41,5.3,4,1,5,Ya
+R1550,Sulawesi Selatan,Loket,18,32.5,6,1,2,Tidak
+R1551,Sulawesi Selatan,Loket,29,30.1,5,5,2,Tidak
+R1552,Jawa Tengah,Online,28,9.8,1,2,2,Tidak
+R1553,DKI Jakarta,Online,46,8.2,6,5,1,Ya
+R1554,Sumatera Utara,Online,52,16.0,8,4,4,Ya
+R1555,Jawa Tengah,Loket,67,11.6,5,4,3,Ya
+R1556,Bali,Loket,31,18.0,2,5,1,Ya
+R1557,Jawa Timur,Online,64,1,5,2,3,Ya
+R1558,Aceh,Online,28,8.8,3,2,1,Tidak
+R1559,Papua,Online,36,13.0,7,4,3,Ya
+R1560,Kalimantan Timur,Loket,31,18.5,8,4,5,Ya
+R1561,Sumatera Utara,Online,40,14.2,8,2,4,Ya
+R1562,Aceh,Loket,28,22.7,5,3,5,Ya
+R1563,Jawa Barat,Loket,53,17.0,6,2,5,Ya
+R1564,Kalimantan Timur,Online,55,5.1,4,3,4,Ya
+R1565,Sulawesi Selatan,Online,59,11.7,5,1,3,Ya
+R1566,Jawa Tengah,Online,47,18.0,5,2,1,Tidak
+R1567,DKI Jakarta,Online,21,2.2,1,3,3,Ya
+R1568,DKI Jakarta,Online,44,1,6,1,5,Ya
+R1569,Kalimantan Timur,Loket,31,25.0,6,2,2,Tidak
+R1570,Sulawesi Selatan,Online,18,6.1,6,4,4,Ya
+R1571,Bali,Online,57,9.6,6,3,1,Ya
+R1572,Jawa Tengah,Loket,46,22.0,1,4,2,Tidak
+R1573,Jawa Timur,Online,44,7.6,6,3,4,Ya
+R1574,Aceh,Loket,66,26.1,2,3,2,Tidak
+R1575,Jawa Timur,Online,20,5.1,5,1,1,Tidak
+R1576,Jawa Timur,Loket,54,26.1,6,1,1,Tidak
+R1577,Sumatera Utara,Loket,47,24.6,3,3,5,Ya
+R1578,Bali,Loket,39,18.9,7,1,1,Tidak
+R1579,Jawa Tengah,Loket,22,22.1,8,5,4,Ya
+R1580,Jawa Barat,Online,37,20.9,7,3,1,Tidak
+R1581,Aceh,Online,54,18.3,7,3,3,Ya
+R1582,Jawa Barat,Online,40,8.4,3,1,2,Tidak
+R1583,Bali,Loket,65,28.7,7,3,3,Tidak
+R1584,Papua,Online,49,17.9,2,1,2,Tidak
+R1585,Jawa Barat,Online,41,4.1,6,2,3,Ya
+R1586,Papua,Loket,32,14.8,7,1,1,Tidak
+R1587,Kalimantan Timur,Online,54,1.8,5,4,4,Ya
+R1588,Sumatera Utara,Online,21,5.8,1,4,1,Ya
+R1589,Sumatera Utara,Online,49,1,8,4,4,Ya
+R1590,Bali,Loket,32,17.8,1,2,4,Ya
+R1591,Jawa Timur,Online,70,9.8,7,2,1,Ya
+R1592,DKI Jakarta,Online,52,7.7,1,5,3,Ya
+R1593,Kalimantan Timur,Online,42,2.0,5,3,1,Ya
+R1594,Papua,Online,37,1,7,2,5,Ya
+R1595,Sulawesi Selatan,Loket,22,21.0,8,1,2,Tidak
+R1596,DKI Jakarta,Online,28,9.3,7,5,2,Ya
+R1597,Jawa Timur,Loket,26,28.7,2,1,5,Tidak
+R1598,Sumatera Utara,Loket,36,24.8,2,5,3,Ya
+R1599,Jawa Tengah,Loket,35,18.6,3,3,3,Ya
+R1600,Jawa Barat,Loket,53,32.5,1,5,4,Tidak
+R1601,Jawa Tengah,Online,23,9.0,6,5,1,Ya
+R1602,Papua,Online,60,3.3,4,3,2,Ya
+R1603,Jawa Timur,Loket,36,19.5,1,3,1,Tidak
+R1604,Jawa Tengah,Online,22,2.5,8,4,3,Ya
+R1605,Jawa Timur,Loket,44,30.2,8,4,2,Tidak
+R1606,Kalimantan Timur,Loket,64,21.4,2,1,5,Ya
+R1607,Kalimantan Timur,Loket,39,30.8,7,3,3,Tidak
+R1608,Bali,Loket,51,14.7,7,2,5,Tidak
+R1609,Bali,Loket,53,15.2,7,2,4,Tidak
+R1610,Sulawesi Selatan,Online,40,1,7,3,5,Ya
+R1611,Sulawesi Selatan,Loket,58,15.4,5,4,5,Ya
+R1612,Papua,Loket,20,16.6,6,2,1,Tidak
+R1613,Aceh,Loket,45,18.3,5,5,3,Ya
+R1614,Bali,Loket,19,23.2,1,5,3,Ya
+R1615,Sumatera Utara,Loket,63,19.0,5,5,1,Tidak
+R1616,Sulawesi Selatan,Loket,45,24.3,6,3,5,Tidak
+R1617,Jawa Timur,Loket,41,23.6,3,3,3,Ya
+R1618,Papua,Online,42,4.9,1,2,5,Ya
+R1619,Sulawesi Selatan,Loket,58,16.7,4,1,5,Ya
+R1620,Kalimantan Timur,Online,26,8.4,6,3,5,Tidak
+R1621,Jawa Tengah,Online,21,7.7,1,3,3,Ya
+R1622,Kalimantan Timur,Online,62,2.8,1,5,2,Ya
+R1623,Jawa Timur,Online,23,6.6,5,5,5,Ya
+R1624,Jawa Timur,Loket,32,12.1,4,4,1,Tidak
+R1625,Bali,Loket,48,21.9,1,5,2,Ya
+R1626,Sulawesi Selatan,Loket,33,15.6,1,5,5,Ya
+R1627,Papua,Online,30,10.9,2,4,2,Ya
+R1628,DKI Jakarta,Online,65,26.0,8,1,5,Tidak
+R1629,Sulawesi Selatan,Loket,42,18.4,3,2,4,Tidak
+R1630,DKI Jakarta,Online,64,11.6,4,3,5,Ya
+R1631,Jawa Timur,Online,57,12.1,2,4,3,Ya
+R1632,Jawa Tengah,Loket,68,23.0,5,5,4,Tidak
+R1633,Jawa Barat,Online,68,11.2,2,1,3,Ya
+R1634,Sumatera Utara,Online,50,14.1,3,2,5,Ya
+R1635,Aceh,Loket,43,21.4,8,3,5,Ya
+R1636,Bali,Online,35,27.1,3,5,2,Tidak
+R1637,Jawa Tengah,Online,68,14.1,5,2,3,Ya
+R1638,DKI Jakarta,Online,63,3.3,6,3,2,Ya
+R1639,Bali,Online,64,11.5,3,4,2,Ya
+R1640,Aceh,Online,38,8.4,2,4,2,Ya
+R1641,Bali,Loket,56,24.0,4,2,5,Tidak
+R1642,Kalimantan Timur,Loket,70,14.6,3,3,5,Ya
+R1643,Jawa Tengah,Loket,63,27.7,7,2,1,Tidak
+R1644,Bali,Online,29,6.0,5,1,4,Ya
+R1645,Jawa Barat,Loket,22,18.1,3,4,2,Ya
+R1646,Jawa Timur,Loket,33,21.2,6,5,4,Ya
+R1647,DKI Jakarta,Loket,40,17.9,8,1,1,Tidak
+R1648,Jawa Tengah,Loket,68,24.1,1,3,1,Tidak
+R1649,Jawa Tengah,Loket,29,25.8,3,5,2,Ya
+R1650,Aceh,Loket,59,16.0,8,1,1,Tidak
+R1651,Jawa Tengah,Loket,31,15.5,2,2,5,Ya
+R1652,Papua,Online,66,4.8,2,1,4,Ya
+R1653,Sumatera Utara,Online,18,6.0,6,3,1,Ya
+R1654,Jawa Barat,Loket,65,12.5,5,5,3,Ya
+R1655,Jawa Timur,Loket,60,15.6,6,3,4,Ya
+R1656,Jawa Timur,Online,62,14.3,5,3,4,Ya
+R1657,Sumatera Utara,Loket,26,13.4,8,3,4,Ya
+R1658,DKI Jakarta,Loket,68,24.8,4,5,3,Ya
+R1659,Jawa Tengah,Loket,26,23.4,4,5,3,Tidak
+R1660,Aceh,Loket,39,20.3,6,1,2,Tidak
+R1661,Sulawesi Selatan,Loket,66,26.1,7,1,3,Tidak
+R1662,Sumatera Utara,Online,19,1,7,1,4,Tidak
+R1663,DKI Jakarta,Loket,39,24.9,4,4,3,Tidak
+R1664,Jawa Timur,Online,37,10.7,8,1,5,Ya
+R1665,Bali,Online,52,4.3,3,4,4,Ya
+R1666,DKI Jakarta,Online,45,16.9,3,1,2,Tidak
+R1667,Sulawesi Selatan,Loket,49,25.9,8,2,3,Tidak
+R1668,Jawa Timur,Online,23,1,2,4,2,Ya
+R1669,DKI Jakarta,Online,67,11.6,7,4,2,Ya
+R1670,Jawa Timur,Online,49,5.8,2,3,2,Ya
+R1671,Jawa Tengah,Online,55,11.1,4,2,3,Ya
+R1672,DKI Jakarta,Loket,46,25.5,5,1,1,Tidak
+R1673,Jawa Barat,Online,18,15.6,1,2,3,Tidak
+R1674,Bali,Online,38,7.4,6,4,5,Ya
+R1675,Bali,Loket,54,27.5,1,4,2,Tidak
+R1676,DKI Jakarta,Online,63,15.0,6,5,2,Ya
+R1677,Papua,Online,52,1.2,8,3,3,Ya
+R1678,Papua,Loket,19,21.4,1,1,2,Tidak
+R1679,Sulawesi Selatan,Online,38,13.9,3,5,5,Ya
+R1680,Jawa Barat,Online,62,8.1,5,1,5,Tidak
+R1681,Sumatera Utara,Online,50,9.8,5,5,2,Ya
+R1682,Papua,Loket,66,24.2,4,1,1,Tidak
+R1683,Bali,Loket,29,20.7,5,3,4,Tidak
+R1684,Jawa Tengah,Online,25,8.1,5,5,1,Ya
+R1685,Papua,Online,61,15.7,3,1,1,Tidak
+R1686,Aceh,Loket,54,13.8,2,4,5,Ya
+R1687,Jawa Tengah,Online,65,6.3,3,2,1,Ya
+R1688,Jawa Barat,Online,54,4.4,7,1,2,Tidak
+R1689,DKI Jakarta,Online,61,2.7,4,1,3,Ya
+R1690,Papua,Online,47,3.0,7,3,5,Ya
+R1691,Jawa Timur,Loket,40,24.5,4,5,1,Tidak
+R1692,Jawa Tengah,Loket,41,21.7,4,3,4,Tidak
+R1693,Jawa Timur,Loket,67,17.6,1,2,3,Tidak
+R1694,Aceh,Loket,20,29.1,2,1,2,Tidak
+R1695,Jawa Tengah,Online,57,1,4,2,5,Ya
+R1696,Sulawesi Selatan,Loket,33,15.4,6,4,5,Ya
+R1697,Jawa Timur,Online,44,1,8,4,3,Ya
+R1698,Jawa Timur,Loket,21,16.1,8,1,2,Tidak
+R1699,Sumatera Utara,Loket,58,31.6,1,5,5,Ya
+R1700,Papua,Loket,50,23.3,6,3,5,Ya
+R1701,Bali,Online,68,6.2,5,3,2,Ya
+R1702,Kalimantan Timur,Online,29,1,1,2,4,Ya
+R1703,Bali,Online,20,4.6,3,1,5,Ya
+R1704,Jawa Timur,Online,70,11.5,2,4,5,Ya
+R1705,Jawa Timur,Loket,65,16.5,5,5,3,Ya
+R1706,Bali,Loket,21,28.9,1,5,3,Ya
+R1707,DKI Jakarta,Online,64,4.8,7,1,4,Ya
+R1708,Sulawesi Selatan,Online,47,5.9,1,3,1,Tidak
+R1709,Aceh,Loket,29,19.7,3,3,3,Ya
+R1710,Jawa Tengah,Online,25,9.4,6,5,2,Ya
+R1711,DKI Jakarta,Online,40,5.2,1,5,2,Ya
+R1712,Jawa Barat,Loket,29,34.4,4,2,4,Tidak
+R1713,Jawa Tengah,Online,65,14.1,2,2,5,Ya
+R1714,DKI Jakarta,Online,63,1,7,1,4,Ya
+R1715,Jawa Timur,Online,59,15.6,3,1,2,Tidak
+R1716,Sulawesi Selatan,Online,28,6.8,8,4,1,Tidak
+R1717,Kalimantan Timur,Loket,39,25.0,3,4,4,Ya
+R1718,Kalimantan Timur,Online,56,13.6,7,2,4,Ya
+R1719,Papua,Online,42,8.7,1,1,1,Tidak
+R1720,Kalimantan Timur,Loket,22,24.2,2,5,3,Tidak
+R1721,DKI Jakarta,Loket,41,26.1,1,3,1,Tidak
+R1722,Aceh,Online,58,9.7,5,5,5,Ya
+R1723,Bali,Loket,41,11.0,5,4,2,Ya
+R1724,Bali,Loket,29,19.2,8,2,5,Tidak
+R1725,DKI Jakarta,Loket,35,13.6,6,1,1,Tidak
+R1726,Jawa Tengah,Online,49,1.2,1,3,5,Ya
+R1727,DKI Jakarta,Loket,28,30.1,2,3,5,Tidak
+R1728,Papua,Loket,57,20.2,8,5,4,Ya
+R1729,Sumatera Utara,Loket,55,19.8,5,4,2,Ya
+R1730,Papua,Loket,55,17.2,8,3,2,Ya
+R1731,Papua,Loket,42,16.4,7,5,1,Tidak
+R1732,Aceh,Loket,29,21.6,5,3,5,Ya
+R1733,Papua,Online,51,8.2,7,2,5,Ya
+R1734,Jawa Barat,Online,23,8.2,3,2,4,Ya
+R1735,Jawa Tengah,Loket,21,13.6,8,1,1,Ya
+R1736,Jawa Barat,Online,31,6.1,3,5,2,Ya
+R1737,Jawa Tengah,Loket,20,17.1,2,5,2,Ya
+R1738,DKI Jakarta,Loket,24,34.6,4,2,5,Ya
+R1739,Bali,Loket,23,21.6,2,3,4,Tidak
+R1740,Jawa Tengah,Loket,47,22.3,7,1,4,Tidak
+R1741,Aceh,Loket,64,16.4,2,5,1,Ya
+R1742,Jawa Barat,Loket,61,12.1,1,4,3,Ya
+R1743,Papua,Loket,44,15.5,6,2,1,Tidak
+R1744,Sumatera Utara,Online,30,5.7,3,2,2,Ya
+R1745,Sulawesi Selatan,Online,40,12.4,4,5,3,Ya
+R1746,Sumatera Utara,Online,57,1.4,7,5,3,Ya
+R1747,Jawa Timur,Online,52,9.0,4,2,5,Ya
+R1748,Kalimantan Timur,Loket,33,23.0,8,5,2,Ya
+R1749,Jawa Timur,Online,65,4.9,2,2,3,Ya
+R1750,Bali,Loket,52,19.8,1,1,4,Tidak
+R1751,Jawa Tengah,Online,65,17.7,3,3,3,Ya
+R1752,DKI Jakarta,Loket,29,25.8,8,3,2,Tidak
+R1753,Jawa Barat,Online,57,17.6,1,1,5,Tidak
+R1754,Sulawesi Selatan,Loket,61,23.8,5,2,4,Ya
+R1755,Jawa Timur,Online,34,1,4,2,4,Ya
+R1756,Papua,Loket,61,14.4,8,4,2,Ya
+R1757,Jawa Barat,Online,25,2.3,1,3,5,Ya
+R1758,Aceh,Online,31,13.3,2,2,3,Tidak
+R1759,DKI Jakarta,Online,31,5.9,1,1,3,Tidak
+R1760,Sulawesi Selatan,Online,56,19.6,5,1,3,Tidak
+R1761,Sumatera Utara,Loket,48,17.6,6,1,5,Ya
+R1762,DKI Jakarta,Loket,19,21.4,3,4,4,Ya
+R1763,DKI Jakarta,Online,28,6.2,5,5,3,Ya
+R1764,Papua,Online,46,5.7,3,2,1,Tidak
+R1765,Jawa Timur,Online,60,3.8,6,3,5,Ya
+R1766,Sumatera Utara,Online,63,14.8,4,2,5,Ya
+R1767,Jawa Timur,Loket,70,18.6,6,5,4,Ya
+R1768,Sumatera Utara,Online,47,1,5,3,2,Ya
+R1769,Sumatera Utara,Loket,44,26.3,8,3,5,Ya
+R1770,Bali,Loket,62,21.5,3,5,2,Ya
+R1771,Aceh,Online,29,1,1,5,2,Ya
+R1772,Sumatera Utara,Loket,58,13.5,6,3,4,Ya
+R1773,Sumatera Utara,Online,32,1,8,3,1,Ya
+R1774,Sumatera Utara,Loket,50,22.6,7,2,2,Ya
+R1775,Bali,Loket,22,10.8,1,4,2,Tidak
+R1776,Sulawesi Selatan,Loket,63,31.8,6,2,4,Tidak
+R1777,Aceh,Online,52,5.8,6,5,4,Ya
+R1778,Bali,Online,26,15.6,6,3,2,Tidak
+R1779,Jawa Timur,Online,23,6.8,1,4,5,Ya
+R1780,Jawa Tengah,Loket,41,18.4,7,2,3,Ya
+R1781,Papua,Loket,33,17.7,2,3,5,Ya
+R1782,Aceh,Online,23,5.1,4,5,4,Ya
+R1783,Jawa Barat,Online,48,5.9,2,2,2,Ya
+R1784,Kalimantan Timur,Loket,22,17.1,5,5,2,Ya
+R1785,DKI Jakarta,Online,52,7.0,2,2,5,Ya
+R1786,Jawa Tengah,Loket,54,31.8,7,3,5,Ya
+R1787,Aceh,Loket,44,6.7,3,3,1,Tidak
+R1788,Aceh,Online,33,9.8,5,5,1,Ya
+R1789,Kalimantan Timur,Loket,38,23.2,4,2,2,Tidak
+R1790,DKI Jakarta,Loket,23,16.1,5,3,3,Ya
+R1791,Sumatera Utara,Online,21,5.1,1,1,2,Tidak
+R1792,Sumatera Utara,Online,31,10.4,2,5,1,Ya
+R1793,Jawa Timur,Loket,34,25.3,3,1,2,Tidak
+R1794,Kalimantan Timur,Loket,58,29.7,3,4,2,Ya
+R1795,Sulawesi Selatan,Loket,21,10.1,1,2,1,Ya
+R1796,Sumatera Utara,Online,39,16.4,5,2,3,Tidak
+R1797,Kalimantan Timur,Loket,34,16.7,2,2,1,Ya
+R1798,Kalimantan Timur,Online,51,3.2,5,2,5,Ya
+R1799,Jawa Timur,Online,69,7.0,5,1,1,Tidak
+R1800,Aceh,Online,32,26.3,7,1,4,Tidak
+R1801,Aceh,Online,54,14.0,7,3,3,Ya
+R1802,Aceh,Online,58,7.3,2,5,5,Ya
+R1803,Kalimantan Timur,Online,51,2.7,1,2,1,Tidak
+R1804,Sulawesi Selatan,Online,54,12.5,4,5,3,Ya
+R1805,Bali,Online,20,10.0,2,5,1,Ya
+R1806,Sulawesi Selatan,Online,31,18.6,8,4,5,Ya
+R1807,Kalimantan Timur,Online,54,8.9,1,1,3,Tidak
+R1808,Jawa Tengah,Loket,55,20.9,8,2,1,Tidak
+R1809,Jawa Timur,Online,19,4.7,8,5,4,Ya
+R1810,DKI Jakarta,Online,61,7.8,7,3,2,Ya
+R1811,Aceh,Loket,33,26.1,4,5,5,Ya
+R1812,Papua,Online,70,11.4,5,2,4,Ya
+R1813,Kalimantan Timur,Online,39,4.6,5,5,1,Ya
+R1814,Sumatera Utara,Online,59,13.7,3,2,1,Tidak
+R1815,Sulawesi Selatan,Loket,65,12.2,4,1,2,Tidak
+R1816,Sulawesi Selatan,Online,34,9.4,7,2,2,Tidak
+R1817,DKI Jakarta,Online,60,12.0,4,2,1,Tidak
+R1818,Sulawesi Selatan,Loket,53,22.7,1,3,3,Tidak
+R1819,Jawa Barat,Online,49,9.8,6,1,2,Ya
+R1820,Papua,Online,70,3.0,7,2,4,Ya
+R1821,Aceh,Online,59,4.7,3,3,4,Ya
+R1822,Jawa Timur,Loket,65,26.4,4,3,1,Tidak
+R1823,Aceh,Online,58,13.0,3,5,2,Ya
+R1824,Sumatera Utara,Online,31,6.9,4,3,2,Tidak
+R1825,Sulawesi Selatan,Online,27,5.0,8,1,2,Tidak
+R1826,Sulawesi Selatan,Online,53,5.6,6,3,1,Tidak
+R1827,Jawa Timur,Loket,18,16.5,2,4,4,Ya
+R1828,Kalimantan Timur,Online,20,11.0,2,5,5,Ya
+R1829,Bali,Online,19,6.4,5,2,4,Ya
+R1830,Papua,Online,27,15.7,3,3,3,Tidak
+R1831,Papua,Loket,37,19.9,7,1,3,Tidak
+R1832,Bali,Loket,30,13.9,5,3,5,Ya
+R1833,Sulawesi Selatan,Online,69,3.0,7,5,1,Ya
+R1834,DKI Jakarta,Online,25,11.2,5,1,5,Ya
+R1835,Sulawesi Selatan,Online,20,11.3,7,1,5,Ya
+R1836,Kalimantan Timur,Loket,34,26.6,7,4,4,Ya
+R1837,Kalimantan Timur,Online,33,4.4,4,5,3,Ya
+R1838,Sumatera Utara,Loket,56,21.0,4,3,4,Ya
+R1839,Papua,Loket,68,15.7,4,4,5,Ya
+R1840,Sumatera Utara,Loket,61,34.4,8,1,5,Tidak
+R1841,Papua,Online,19,4.3,4,4,4,Ya
+R1842,Sumatera Utara,Loket,29,20.7,2,2,1,Tidak
+R1843,Bali,Loket,65,21.2,3,2,2,Tidak
+R1844,Aceh,Online,48,1,4,1,5,Ya
+R1845,Sulawesi Selatan,Online,45,2.9,1,2,2,Tidak
+R1846,DKI Jakarta,Loket,32,25.3,8,5,5,Ya
+R1847,Jawa Timur,Loket,60,19.3,3,3,1,Tidak
+R1848,Kalimantan Timur,Online,21,1,3,4,2,Ya
+R1849,Bali,Online,41,13.4,7,3,3,Ya
+R1850,Jawa Timur,Online,49,8.7,8,1,3,Tidak
+R1851,Kalimantan Timur,Online,27,22.5,8,2,2,Tidak
+R1852,Papua,Online,68,5.0,5,1,5,Ya
+R1853,Sumatera Utara,Online,23,1,3,5,4,Ya
+R1854,Aceh,Loket,52,18.1,6,2,2,Tidak
+R1855,Jawa Timur,Loket,24,11.7,8,5,4,Ya
+R1856,Sulawesi Selatan,Online,37,13.6,4,5,1,Ya
+R1857,Sumatera Utara,Loket,30,13.3,7,4,5,Ya
+R1858,Jawa Tengah,Online,18,13.6,1,1,3,Tidak
+R1859,Papua,Loket,61,15.2,4,3,2,Tidak
+R1860,Sumatera Utara,Loket,51,26.5,5,3,4,Tidak
+R1861,Bali,Online,48,9.7,4,1,1,Tidak
+R1862,Kalimantan Timur,Online,32,8.8,8,1,3,Tidak
+R1863,Kalimantan Timur,Online,61,5.4,7,3,1,Ya
+R1864,Jawa Timur,Loket,30,18.8,1,5,2,Tidak
+R1865,Jawa Tengah,Online,31,16.5,7,3,5,Ya
+R1866,Kalimantan Timur,Online,24,13.1,2,2,2,Ya
+R1867,Aceh,Loket,56,18.6,3,2,5,Ya
+R1868,Jawa Tengah,Loket,68,30.8,4,5,5,Ya
+R1869,Jawa Barat,Loket,39,27.3,6,5,2,Tidak
+R1870,Jawa Tengah,Online,55,16.7,1,4,2,Ya
+R1871,Bali,Loket,24,20.1,8,1,5,Tidak
+R1872,Bali,Loket,25,24.4,7,1,4,Tidak
+R1873,Papua,Loket,47,21.3,4,5,2,Ya
+R1874,Sulawesi Selatan,Loket,40,30.6,6,4,1,Tidak
+R1875,Jawa Barat,Online,67,16.4,2,4,4,Ya
+R1876,Sulawesi Selatan,Online,34,14.5,7,1,1,Tidak
+R1877,Jawa Timur,Online,63,11.6,8,3,3,Ya
+R1878,DKI Jakarta,Online,69,1.2,6,3,1,Ya
+R1879,Jawa Timur,Online,43,1,1,3,1,Ya
+R1880,Bali,Loket,49,25.7,1,1,1,Tidak
+R1881,Bali,Online,68,15.6,3,1,5,Tidak
+R1882,Sumatera Utara,Loket,22,18.5,1,1,1,Tidak
+R1883,Kalimantan Timur,Loket,57,23.9,8,2,5,Tidak
+R1884,Bali,Loket,40,16.9,5,4,4,Ya
+R1885,Aceh,Online,58,7.5,8,4,2,Tidak
+R1886,Bali,Online,45,1,3,5,4,Ya
+R1887,Papua,Loket,44,12.8,4,1,5,Ya
+R1888,Aceh,Online,38,2.6,3,4,4,Ya
+R1889,Bali,Online,62,11.0,6,3,3,Ya
+R1890,DKI Jakarta,Online,20,8.1,4,2,2,Tidak
+R1891,Bali,Online,52,8.5,1,4,1,Ya
+R1892,Sulawesi Selatan,Loket,59,23.6,5,2,5,Ya
+R1893,Aceh,Online,58,17.4,4,4,4,Ya
+R1894,Bali,Online,68,6.2,5,3,2,Ya
+R1895,Aceh,Loket,21,12.8,1,4,2,Ya
+R1896,Sumatera Utara,Loket,45,24.8,5,1,5,Tidak
+R1897,Jawa Timur,Online,68,6.7,6,5,2,Ya
+R1898,Sulawesi Selatan,Online,58,2.2,4,2,3,Ya
+R1899,Aceh,Loket,18,22.5,4,1,1,Tidak
+R1900,Sumatera Utara,Online,23,4.6,7,2,1,Tidak
+R1901,Papua,Online,27,19.7,2,3,4,Tidak
+R1902,Jawa Barat,Online,66,3.1,7,5,4,Ya
+R1903,Bali,Online,60,2.2,2,5,2,Ya
+R1904,Papua,Loket,46,21.8,8,1,4,Tidak
+R1905,Jawa Timur,Loket,28,14.6,5,1,4,Ya
+R1906,Aceh,Loket,68,21.8,7,2,1,Tidak
+R1907,Sulawesi Selatan,Online,20,11.0,3,1,3,Ya
+R1908,Papua,Loket,59,17.1,1,1,4,Ya
+R1909,Sumatera Utara,Loket,25,15.8,4,2,3,Tidak
+R1910,Sumatera Utara,Online,50,26.1,1,3,2,Tidak
+R1911,Aceh,Loket,66,19.9,3,5,4,Ya
+R1912,Bali,Online,65,12.4,6,3,4,Ya
+R1913,Jawa Barat,Online,50,1,7,4,3,Ya
+R1914,DKI Jakarta,Loket,68,28.0,7,3,3,Ya
+R1915,Bali,Loket,68,16.3,8,4,3,Ya
+R1916,Jawa Barat,Online,54,9.1,2,3,3,Tidak
+R1917,Papua,Loket,60,19.6,8,4,1,Ya
+R1918,Aceh,Online,40,5.1,5,5,5,Ya
+R1919,Sulawesi Selatan,Loket,50,17.6,1,2,4,Ya
+R1920,Kalimantan Timur,Loket,52,14.5,3,4,3,Tidak
+R1921,Sulawesi Selatan,Online,27,10.4,7,3,1,Ya
+R1922,Jawa Tengah,Loket,20,19.7,7,3,4,Ya
+R1923,DKI Jakarta,Loket,21,22.8,2,5,3,Ya
+R1924,Sumatera Utara,Online,33,14.1,6,5,4,Ya
+R1925,Jawa Timur,Loket,61,28.3,7,4,2,Tidak
+R1926,DKI Jakarta,Online,65,13.8,6,3,2,Tidak
+R1927,DKI Jakarta,Online,62,8.3,8,4,1,Ya
+R1928,Sumatera Utara,Online,27,1,8,2,1,Ya
+R1929,DKI Jakarta,Online,45,7.5,5,1,3,Ya
+R1930,Aceh,Loket,23,13.8,7,5,4,Ya
+R1931,Sumatera Utara,Online,18,7.7,1,2,2,Tidak
+R1932,Kalimantan Timur,Loket,59,25.8,6,1,2,Tidak
+R1933,Bali,Online,55,14.1,2,4,4,Ya
+R1934,Jawa Timur,Loket,55,9.4,5,3,1,Ya
+R1935,Jawa Timur,Online,45,8.6,6,3,2,Ya
+R1936,Jawa Barat,Online,34,2.6,5,2,2,Ya
+R1937,Jawa Barat,Online,48,8.9,8,2,2,Tidak
+R1938,Aceh,Online,34,15.4,2,1,4,Ya
+R1939,Jawa Barat,Online,43,10.4,8,2,5,Ya
+R1940,Kalimantan Timur,Loket,36,23.1,8,3,1,Tidak
+R1941,Sulawesi Selatan,Loket,64,21.5,7,4,5,Ya
+R1942,Kalimantan Timur,Online,22,10.8,8,4,5,Ya
+R1943,Kalimantan Timur,Online,47,1,6,3,2,Ya
+R1944,Sulawesi Selatan,Loket,66,11.7,2,3,1,Ya
+R1945,Sumatera Utara,Online,67,5.4,4,3,3,Ya
+R1946,Jawa Timur,Online,69,5.9,6,3,4,Ya
+R1947,Kalimantan Timur,Online,51,16.4,2,2,3,Tidak
+R1948,Papua,Loket,42,28.7,6,4,1,Tidak
+R1949,Papua,Loket,67,14.1,2,5,4,Ya
+R1950,Sumatera Utara,Online,44,8.4,2,1,4,Ya
+R1951,Papua,Online,30,16.1,4,1,4,Ya
+R1952,Kalimantan Timur,Loket,27,11.2,7,2,4,Ya
+R1953,Jawa Timur,Online,34,10.3,3,5,2,Ya
+R1954,Papua,Loket,26,27.8,1,2,5,Tidak
+R1955,Sulawesi Selatan,Loket,29,8.2,6,1,2,Tidak
+R1956,Aceh,Loket,29,18.6,2,1,2,Ya
+R1957,Papua,Online,55,3.0,7,3,4,Ya
+R1958,Aceh,Online,62,1,8,1,2,Tidak
+R1959,Aceh,Online,32,4.8,2,4,5,Ya
+R1960,Aceh,Loket,33,30.4,4,1,1,Tidak
+R1961,Sumatera Utara,Online,51,4.2,8,2,2,Ya
+R1962,Jawa Timur,Loket,63,12.3,2,3,2,Ya
+R1963,Jawa Tengah,Online,30,9.2,2,1,5,Ya
+R1964,Jawa Barat,Loket,26,25.6,6,5,2,Tidak
+R1965,Sumatera Utara,Online,21,11.5,8,1,4,Tidak
+R1966,DKI Jakarta,Loket,54,3.1,4,2,4,Ya
+R1967,DKI Jakarta,Online,20,15.1,6,3,3,Tidak
+R1968,Bali,Online,25,4.1,5,4,2,Ya
+R1969,Jawa Timur,Online,38,6.1,1,5,4,Ya
+R1970,Jawa Tengah,Loket,29,12.1,5,3,1,Tidak
+R1971,DKI Jakarta,Loket,25,24.7,1,2,3,Tidak
+R1972,DKI Jakarta,Online,54,19.0,2,5,3,Ya
+R1973,Sulawesi Selatan,Online,19,15.1,1,2,1,Tidak
+R1974,Sumatera Utara,Online,54,2.6,4,4,4,Ya
+R1975,Jawa Tengah,Loket,60,18.9,3,1,5,Ya
+R1976,Bali,Loket,21,19.5,4,4,1,Tidak
+R1977,Sumatera Utara,Online,54,6.4,2,1,4,Ya
+R1978,Aceh,Online,26,17.5,8,5,3,Ya
+R1979,Jawa Timur,Loket,53,26.3,5,4,3,Tidak
+R1980,Jawa Tengah,Loket,53,17.4,1,3,3,Ya
+R1981,Kalimantan Timur,Online,57,7.9,4,4,3,Ya
+R1982,Papua,Online,42,5.5,3,1,3,Ya
+R1983,Jawa Timur,Online,28,7.8,5,1,2,Tidak
+R1984,Papua,Online,41,4.6,1,1,3,Ya
+R1985,Papua,Online,67,6.4,4,3,1,Ya
+R1986,Aceh,Loket,25,26.5,2,4,3,Tidak
+R1987,Kalimantan Timur,Loket,23,21.3,8,2,5,Ya
+R1988,Papua,Online,39,14.2,3,5,1,Ya
+R1989,Sulawesi Selatan,Online,43,1,1,5,5,Ya
+R1990,Sumatera Utara,Loket,64,20.8,3,5,4,Ya
+R1991,Aceh,Loket,56,20.6,2,4,4,Ya
+R1992,Jawa Tengah,Online,47,1,7,4,2,Ya
+R1993,Jawa Barat,Online,56,10.7,2,1,4,Tidak
+R1994,Papua,Loket,50,23.6,8,2,3,Tidak
+R1995,Kalimantan Timur,Loket,61,8.1,7,2,5,Ya
+R1996,Kalimantan Timur,Loket,26,22.4,1,5,4,Tidak
+R1997,DKI Jakarta,Loket,29,20.9,3,5,1,Tidak
+R1998,DKI Jakarta,Online,55,12.5,8,5,2,Ya
+R1999,Aceh,Loket,25,22.6,3,2,3,Tidak
+R2000,Sumatera Utara,Loket,25,14.5,7,3,5,Ya

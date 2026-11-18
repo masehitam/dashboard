@@ -1,0 +1,4 @@
+.env
+AKUN.md
+__pycache__/
+.DS_Store
