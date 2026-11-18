@@ -8,6 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -32,17 +33,20 @@
         </div>
         <div class="ai-card" aria-label="Contoh percakapan dengan AI MenPAN">
           <div class="ai-head"><span class="ai-badge">AI</span><b>AI MenPAN</b><span class="pill">Contoh</span></div>
-          <p class="bubble user">Tampilkan rata-rata waktu tunggu per wilayah tahun ini, urutkan dari yang terlama.</p>
+          <p class="bubble user">Tampilkan Indeks Pelayanan Publik (IPP) per provinsi tahun ini, urutkan dari yang tertinggi.</p>
           <div class="bubble bot">
-            <span>Berikut grafiknya. Papua dan Aceh paling lama menunggu.</span>
-            <ul class="hbars" aria-hidden="true"><li style="--v:92%"><b>Papua</b><i></i></li><li style="--v:78%"><b>Aceh</b><i></i></li><li style="--v:61%"><b>Bali</b><i></i></li><li style="--v:44%"><b>DKI</b><i></i></li></ul>
+            <span>Berikut grafiknya. Provinsi A memimpin dengan nilai 4,52 dari skala 5.</span>
+            <ul class="hbars" aria-hidden="true"><li style="--v:90%"><b>Prov. A</b><i></i></li><li style="--v:84%"><b>Prov. B</b><i></i></li><li style="--v:75%"><b>Prov. C</b><i></i></li><li style="--v:63%"><b>Prov. D</b><i></i></li></ul>
             <small>Tanpa SQL · siap disimpan ke dashboard</small>
           </div>
+          <p class="sample">Contoh dengan data rekaan</p>
         </div>
       </section>
 
-      <!-- Peragaan alur: berputar otomatis, berhenti saat disorot; diam bila pengguna memilih gerak minimal. -->
+      <!-- Peragaan alur: langkah berganti mengikuti scroll (panel menempel selama 4 langkah). -->
       <section class="band" id="alur" aria-labelledby="alur-title">
+       <div class="flow-track" data-track>
+        <div class="flow-pin">
         <h2 id="alur-title">Dari data mentah sampai dashboard yang dipakai</h2>
         <p class="lead">Empat langkah, tanpa menulis satu baris kode pun.</p>
         <div class="flow" data-flow>
@@ -56,18 +60,18 @@
             <!-- 1. Data masuk -->
             <div class="scene" data-scene="0">
               <div class="sources">
-                <div class="drop"><svg class="ico big" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg><b>layanan_2026.csv</b><span class="progress"><i></i></span><small>Diunggah · 12.480 baris</small></div>
+                <div class="drop"><svg class="ico big" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V4M7 9l5-5 5 5M4 16v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-3"/></svg><b>hasil_penilaian_ipp_2026.xlsx</b><span class="progress"><i></i></span><small>Diunggah · 2.648 unit layanan</small></div>
                 <span class="or">atau</span>
-                <div class="conn"><svg class="ico big" viewBox="0 0 24 24" aria-hidden="true"><ellipse cx="12" cy="6" rx="7" ry="3"/><path d="M5 6v12c0 1.7 3.1 3 7 3s7-1.3 7-3V6M5 12c0 1.7 3.1 3 7 3s7-1.3 7-3"/></svg><b>Database instansi</b><small>PostgreSQL · MySQL · akses hanya-baca</small><em class="ok">Tersambung</em></div>
+                <div class="conn"><svg class="ico big" viewBox="0 0 24 24" aria-hidden="true"><ellipse cx="12" cy="6" rx="7" ry="3"/><path d="M5 6v12c0 1.7 3.1 3 7 3s7-1.3 7-3V6M5 12c0 1.7 3.1 3 7 3s7-1.3 7-3"/></svg><b>Database pengaduan instansi</b><small>PostgreSQL · MySQL · akses hanya-baca</small><em class="ok">Tersambung</em></div>
               </div>
-              <ul class="tables"><li>layanan_bulanan</li><li>survei_responden</li><li>pengaduan</li></ul>
+              <ul class="tables"><li>penilaian_ipp</li><li>unit_layanan</li><li>pengaduan_sp4n_lapor</li></ul>
             </div>
             <!-- 2. Tanya AI -->
             <div class="scene" data-scene="1">
               <div class="chat">
-                <p class="bubble user type">Bandingkan jumlah layanan online dan loket per bulan</p>
+                <p class="bubble user type">Bandingkan nilai IPP dan jumlah pengaduan per triwulan</p>
                 <div class="bubble bot reveal">
-                  <span>Ini grafik tren 12 bulan terakhir. Layanan online naik 38%.</span>
+                  <span>Nilai IPP naik tiap triwulan, sementara pengaduan turun 18%.</span>
                   <svg class="line" viewBox="0 0 320 110" aria-hidden="true"><path class="l1" d="M8 90 L60 80 L112 72 L164 58 L216 46 L268 34 L312 22" pathLength="100"/><path class="l2" d="M8 50 L60 54 L112 52 L164 58 L216 60 L268 62 L312 66" pathLength="100"/></svg>
                   <small>AI menyusun kuerinya sendiri. Anda cukup memeriksa hasilnya.</small>
                 </div>
@@ -76,25 +80,27 @@
             <!-- 3. Dashboard tersusun -->
             <div class="scene" data-scene="2">
               <div class="board">
-                <div class="tile k"><small>Total layanan</small><b>148.320</b></div>
-                <div class="tile k"><small>Skor kepuasan</small><b>82,3</b></div>
-                <div class="tile k"><small>Waktu tunggu</small><b>11,6 mnt</b></div>
-                <div class="tile wide"><small>Tren per kanal</small><svg viewBox="0 0 320 70" aria-hidden="true"><path d="M6 60 L58 52 L110 46 L162 36 L214 28 L266 20 L314 12" /></svg></div>
-                <div class="tile"><small>Per wilayah</small><span class="mini"><i style="--v:90%"></i><i style="--v:70%"></i><i style="--v:55%"></i><i style="--v:40%"></i></span></div>
+                <div class="tile k"><small>Rata-rata IPP</small><b>4,12</b></div>
+                <div class="tile k"><small>Unit layanan dinilai</small><b>2.648</b></div>
+                <div class="tile k"><small>Kategori Pelayanan Prima</small><b>31%</b></div>
+                <div class="tile wide"><small>Tren IPP per triwulan</small><svg viewBox="0 0 320 70" aria-hidden="true"><path d="M6 60 L58 52 L110 46 L162 36 L214 28 L266 20 L314 12" /></svg></div>
+                <div class="tile"><small>Per kategori nilai</small><span class="mini"><i style="--v:90%"></i><i style="--v:70%"></i><i style="--v:55%"></i><i style="--v:40%"></i></span></div>
               </div>
-              <p class="filters"><span>Wilayah: Semua</span><span>Periode: 2026</span><span class="ok">Diperbarui otomatis</span></p>
+              <p class="filters"><span>Provinsi: Semua</span><span>Periode: 2026</span><span class="ok">Diperbarui otomatis</span></p>
             </div>
             <!-- 4. Dipakai di aplikasi lain -->
             <div class="scene" data-scene="3">
               <div class="browser">
-                <div class="url"><span class="dots"><i></i><i></i><i></i></span><code>portal.instansi.go.id/kinerja</code></div>
-                <div class="site"><b>Portal Kinerja Instansi</b><div class="embed"><small>Dashboard tertanam</small><svg viewBox="0 0 320 70" aria-hidden="true"><path d="M6 60 L58 52 L110 46 L162 36 L214 28 L266 20 L314 12"/></svg></div></div>
+                <div class="url"><span class="dots"><i></i><i></i><i></i></span><code>portal-instansi.go.id/pelayanan-publik</code></div>
+                <div class="site"><b>Dasbor Pimpinan · Pelayanan Publik</b><div class="embed"><small>Dashboard IPP tertanam</small><svg viewBox="0 0 320 70" aria-hidden="true"><path d="M6 60 L58 52 L110 46 L162 36 L214 28 L266 20 L314 12"/></svg></div></div>
               </div>
               <ul class="uses"><li>Tanam di portal atau aplikasi lewat iframe</li><li>Kirim berkala ke email pimpinan</li><li>Bagikan tautan ke rekan satu tim</li></ul>
             </div>
           </div>
           <p class="sample">Contoh tampilan dengan data rekaan</p>
         </div>
+        </div>
+       </div>
       </section>
 
       <section class="features">
@@ -103,7 +109,7 @@
           <p class="lead">Selama ini membuat grafik dari database berarti menulis SQL atau menunggu tim IT. Sekarang cukup bertanya.</p>
         </div>
         <ul>
-          <li><h3>Tanya dengan bahasa sehari-hari</h3><p>"Berapa pengaduan per bulan di Jawa Barat?" langsung jadi tabel atau grafik.</p></li>
+          <li><h3>Tanya dengan bahasa sehari-hari</h3><p>"Unit layanan mana yang nilai IPP-nya turun dibanding tahun lalu?" langsung jadi tabel atau grafik.</p></li>
           <li><h3>Berjalan di server Kementerian PANRB</h3><p>AI MenPAN dikelola sendiri oleh Kementerian, bukan layanan AI publik.</p></li>
           <li><h3>Hasil tetap bisa diperiksa</h3><p>Setiap jawaban bisa dibuka kueri dan datanya, lalu disimpan ke dashboard setelah Anda yakin.</p></li>
         </ul>

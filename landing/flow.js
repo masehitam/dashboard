@@ -1,31 +1,32 @@
-// Peragaan alur: ganti adegan tiap 5 detik, berhenti saat disorot/difokus, tidak berputar bila pengguna memilih gerak minimal.
+// Langkah alur berganti mengikuti posisi scroll di dalam section #alur (panel menempel/sticky).
+// Klik langkah = scroll ke posisinya. Gerak minimal tetap berganti langkah, hanya animasi yang mati (lewat CSS).
 (function () {
-  var root = document.querySelector("[data-flow]");
-  if (!root) return;
-  var tabs = root.querySelectorAll("[role=tab]"), scenes = root.querySelectorAll(".scene");
-  var dur = 5000, i = 0, timer = null, paused = false;
-  var still = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-  root.style.setProperty("--dur", dur + "ms");
-  function show(n) {
-    i = n;
-    tabs.forEach(function (t, k) { t.setAttribute("aria-selected", k === n ? "true" : "false"); });
-    scenes.forEach(function (s, k) {
+  var track = document.querySelector("[data-track]");
+  if (!track) return;
+  var tabs = track.querySelectorAll("[role=tab]"), scenes = track.querySelectorAll(".scene");
+  var n = scenes.length, current = -1;
+  function show(k) {
+    if (k === current) return;
+    current = k;
+    tabs.forEach(function (t, i) { t.setAttribute("aria-selected", i === k ? "true" : "false"); });
+    scenes.forEach(function (s, i) {
       s.classList.remove("on");
-      s.setAttribute("aria-hidden", k === n ? "false" : "true");
-      if (k === n) { void s.offsetWidth; s.classList.add("on"); }  // reflow agar animasi adegan diulang
+      s.setAttribute("aria-hidden", i === k ? "false" : "true");
+      if (i === k) { void s.offsetWidth; s.classList.add("on"); } // reflow agar animasi adegan diulang
     });
-    schedule();
   }
-  function schedule() {
-    clearTimeout(timer);
-    if (!paused && !still) timer = setTimeout(function () { show((i + 1) % scenes.length); }, dur);
+  function span() { return track.offsetHeight - window.innerHeight; }
+  function onScroll() {
+    var p = (window.scrollY - track.offsetTop) / Math.max(1, span());
+    show(Math.min(n - 1, Math.max(0, Math.floor(p * n))));
   }
-  function pause(p) { paused = p; root.classList.toggle("paused", p || still); schedule(); }
-  tabs.forEach(function (t, k) { t.addEventListener("click", function () { show(k); }); });
-  root.addEventListener("mouseenter", function () { pause(true); });
-  root.addEventListener("mouseleave", function () { pause(false); });
-  root.addEventListener("focusin", function () { pause(true); });
-  root.addEventListener("focusout", function () { pause(false); });
-  root.classList.toggle("paused", still);
-  show(0);
+  tabs.forEach(function (t, i) {
+    t.addEventListener("click", function () {
+      window.scrollTo({ top: track.offsetTop + span() * (i + 0.5) / n, behavior: "smooth" });
+      show(i);
+    });
+  });
+  window.addEventListener("scroll", onScroll, { passive: true });
+  window.addEventListener("resize", onScroll);
+  onScroll();
 })();
